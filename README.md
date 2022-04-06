@@ -7,7 +7,7 @@ description: Borrow and lend with your NFTs as collateral
 
 **Latest news**
 
-****🏦  NFT collateralisation is being tested in our 🧪[alpha program](https://discord.gg/T7RQ8hMamB)&#x20;
+🏦  NFT collateralisation is being tested in our 🧪[alpha program](https://discord.gg/T7RQ8hMamB)&#x20;
 
 ⚗️ Staking is live ! [Stake your NFTs](https://app.honey.finance) to receive $HONEY
 
