@@ -4,6 +4,7 @@ description: Borrow and lend with your NFTs
 
 # 👋 Welcome to Honey
 
+{% hint style="info" %}
 **Latest news**
 
 🏦 NFT collateralisation is being tested in our 🧪[alpha program](https://discord.gg/T7RQ8hMamB)
@@ -11,8 +12,7 @@ description: Borrow and lend with your NFTs
 ⚗️ Staking is live ! [Stake your NFTs](https://app.honey.finance) to receive $HONEY
 
 📑 Code has been open sourced, feel free to [contribute](https://github.com/honey-labs)
-
-
+{% endhint %}
 
 Honey Finance is the leading DeFi protocol for NFTs. This decentralised application (dapp) allows users to extract value from their NFTs, without having to sell them, in order to generate yield or mint more NFTs.
 
