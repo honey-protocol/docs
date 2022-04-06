@@ -6,7 +6,9 @@ description: Stake Genesis NFTs to receive $HONEY
 
 ## Liquidity Mining
 
-Half of the entire protocol's liquidity mining program is allocated to Honey Genesis NFTs. This means the NFTs yield HONEY minted from the initial supply which can be vested for all of the veHONEY benefits.
+Half of the entire protocol's liquidity mining program (half of 150 million tokens) is allocated to Honey Genesis NFTs. This means the NFTs yield HONEY minted from the initial supply which can be vested for all of the veHONEY benefits.
+
+**75,000,000 $HONEY distributed to all staked NFTs over 2 years.**
 
 If all NFTs are staked, maximum dilution would result in 10.27 $HONEY per day per NFT.
 
