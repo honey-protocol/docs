@@ -13,8 +13,10 @@
   * [Lending](products/nfts/lending.md)
   * [Market admins](products/nfts/market-admins.md)
   * [Protocol tokenomics](products/nfts/protocol-tokenomics.md)
-* [Genesis NFTs](products/genesis-nfts.md)
-* [Page 1](products/page-1.md)
+* [Genesis NFTs](products/genesis-nfts/README.md)
+  * [Understanding NFTs vs token](products/genesis-nfts/page-1.md)
+  * [Liquidity Mining](products/genesis-nfts/liquidity-mining.md)
+  * [Alpha program](products/genesis-nfts/alpha-program.md)
 * [Farms](https://blog.honey.finance/introducing-honey-farms-c69af3074b98)
 
 ## Tokenomics
@@ -43,6 +45,7 @@
 
 * [FAQ](faq/faq/README.md)
   * [Farms FAQ](faq/faq/farms-faq.md)
+  * [Genesis Bee NFT FAQ](faq/faq/genesis-bee-nft-faq.md)
   * [Lending & Borrowing FAQ](faq/faq/lending-and-borrowing-faq.md)
 
 ## LINKS

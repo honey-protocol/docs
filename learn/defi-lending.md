@@ -30,7 +30,7 @@ LTV, or Loan-to-Value is a ratio (expressed in percentages) of how much you've b
 \
 It's the inverse equation of the the collateralisation ratio.
 
-![Example: Your NFT (collateral) is worth 100 SOL, you borrow 50 SOL. Your LTV = 50%](<../.gitbook/assets/image (1).png>)
+![Example: Your NFT (collateral) is worth 100 SOL, you borrow 50 SOL. Your LTV = 50%](<../.gitbook/assets/image (1) (1).png>)
 
 ## Health factor
 
