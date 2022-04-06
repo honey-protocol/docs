@@ -52,8 +52,8 @@ Members of the Honey Development Association, whose mission is to help build the
 * [@jayne](https://twitter.com/0xjayne)
 * [@sundeepcharan](https://twitter.com/SundeepCharan)
 * [@azothzephyr](https://twitter.com/AzothZephyr)
-* [@dariusfoodei](https://twitter.com/DariusFoodeei)
-
-
+* [@Heron](https://twitter.com/BowTiedHeron)&#x20;
+* [@Swan](https://twitter.com/BowTiedSwan)
+* [@bbroeking](https://twitter.com/bbroeking)
 
 and a special thank you to [@0xSheik](https://twitter.com/0xCryptoSheik) , [@mmdhrumil](https://twitter.com/mmdhrumil) and [@rleshner](https://twitter.com/rleshner) 💛
