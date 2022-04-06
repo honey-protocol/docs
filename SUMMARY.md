@@ -14,9 +14,9 @@
   * [Market admins](products/nfts/market-admins.md)
   * [Protocol tokenomics](products/nfts/protocol-tokenomics.md)
 * [Genesis NFTs](products/genesis-nfts/README.md)
-  * [Understanding NFTs vs token](products/genesis-nfts/page-1.md)
   * [Liquidity Mining](products/genesis-nfts/liquidity-mining.md)
   * [Alpha program](products/genesis-nfts/alpha-program.md)
+  * [NFT vs Token benefits](products/genesis-nfts/genesis-nfts.md)
 * [Farms](https://blog.honey.finance/an-in-depth-guide-to-staking-as-a-service-512a45ae307c)
 
 ## Tokenomics
