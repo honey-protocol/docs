@@ -1,39 +1,58 @@
 ---
-description: How does it all work together ?
+description: Calculating interest rates and risk
 ---
 
-# Protocol tokenomics
+# Protocol maths
 
-## How it works
+## Interest Rates
 
-We've prepared a quick diagram to go over the different transactions and interactions within the protocol. Borrowers use NFTs as collateral, and liquidity comes from SOL and USDC lenders. $HONEY is earned for providing liquidity into the system, and $HONEY can be staked to receive fees from the protocol.
+Interest rates on loans, also referred to as borrow APR, is calculated to reflect supply and demand for capital in lending markets. Supply is represented by lenders supplying liquidity or capital, and demand is represented by borrowers who seek capital in exchange for depositing collateral.
 
-These flows work the same across all chains.
+If there is an abundance of capital allocated to a market, more than is necessary, interest rates will be low. If however there is a shortage of capital in another market, which means strong demand with low supply, then interest will be higher.&#x20;
 
-![](<../../.gitbook/assets/image (3).png>)
+This incentivises capital to be allocated where it is most needed. Interest rates become a signal for lenders to indicate where money is most needed, and where in turn they can get the highest return on their capital.
 
-## Where does liquidity come from ?
+This supply and demand for liquidity is measured with the **utilisation rate**, in other words, how much of the supplied liquidity is being borrowed (utilised) by borrowers. The higher the utilisation rate, the higher the interest rate in a lending market.
 
-Lenders provide SOL or any SPL token compatible with their lending market. When supplying liquidity, they earn interest from borrowers, and exposure to the NFT collection of the market they selected. Additionally, the DAO can incentivise liquidity with $HONEY emissions.\
+{% hint style="info" %}
+_Ut_ = utilisation rate at time _t_\
+_Uoptimal_ = optimal utilisation rate\
 \
-DAOs can fund their own lending markets to optimise capital efficiency of their treasuries, while ensuring the money doesn't leave the walls of their communities. DAOs can allocate $HONEY emissions to enable greater volume in their markets.
+_Rv_ = variable borrow rate\
+_Rv0_ = base variable borrow rate (interest when utilisation = 0%)\
+_Rslope1_ = constant which determines the progression of the interest rate **until** Uoptimal\
+_Rslope2_ = constant which determines the progression of the interest rate **after** Uoptimal
+{% endhint %}
 
-## Are funds safe ?
+The protocol has built in incentives in the interest rate model. To be capitally efficient, it sets an _optimal utilisation rate._ Below this rate, the protocol will incentivise utilisation, above this rate and it will disincentivise utilisation.
 
-We are making security and safety of funds an absolute priority. On top of obtaining audits and open sourcing our code, we are implementing insurance funds to act as buffers to support potential undercollateralization (with cataclysmic drop in floor prices) or any kind of liquidity glitch. This insurance fund will be allocated from the DAO treasury, and will grow as revenue continues to be accrue.
-
-The size of insurance fund will vary depending on market conditions and will always be voted upon by our DAO.
-
-## How do you value my NFT collateral?
-
-The value of your NFT is decided by the floor price of the collection it belongs to. This floor price is tracked with APIs which gather information from multiple different marketplaces while also scanning on-chain data. These APIs are aggregated with our own on-chain oracle called Pravda, which estimates the liquidity of a certain NFT collection, and also serves as a volatility index. We do our best to remove the outliers, and the oracle is fully open sourced, so it can be adjusted by the community and DAO.
-
-Our current loan-to-value should hover at around 50% but this will rely on the volatility score given by Pravda, so an NFT with a floor price of 100 SOL will be eligible for a loan of maximum of 50 SOL.
+Two different slopes are used to measure interest rates, one for when utilisation is below optimal, and one for when it is above the optimal rate.
 
 
 
-## What if my NFT is rare ?
+When not enough borrowers are borrowing available liquidity, the interest rate will be calculated as such:
 
-In this case, you can still get instant liquidity from borrowing, and liquidators will bid on your collateral. We will show you the best offer, which you can accept, and enter a peer-to-peer loan.\
+$$
+R_v =R_{v0} + (U_t \div U_{optimal}) \times R_{slope1}
+$$
+
+When too many borrowers are borrowing available liquidity, the interest rate will be calculated as such:
+
+$$
+R_v = R_{v0} + R_{slope1}+(U_t - U_{optimal})\div(1-U_{optimal})\times R_{slope2}
+$$
+
+
+
+## Protocol parameters
+
+Honey Finance lending markets use the following parameters as default:
+
+{% hint style="info" %}
+**Optimal utilisation**: `80%`\
+**Borrow APR at Uoptimal**: `40%`\
+**Base borrow APR**: `10%`\
 \
-This means that the vast majority of NFTs can benefit from the automation of a peer-to-contract system, however rarer and more valuable NFTs can benefit from price discovery by collectors themselves.
+**Rslope1 constant**: `0.3`\
+**Rslope2 constant**: `1`
+{% endhint %}

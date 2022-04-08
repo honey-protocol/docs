@@ -12,7 +12,7 @@
   * [Borrowing](products/nfts/borrowing.md)
   * [Lending](products/nfts/lending.md)
   * [Market admins](products/nfts/market-admins.md)
-  * [Protocol tokenomics](products/nfts/protocol-tokenomics.md)
+  * [Protocol maths](products/nfts/protocol-tokenomics.md)
 * [Genesis NFTs](products/genesis-nfts/README.md)
   * [Liquidity Mining](products/genesis-nfts/liquidity-mining.md)
   * [Alpha program](products/genesis-nfts/alpha-program.md)
