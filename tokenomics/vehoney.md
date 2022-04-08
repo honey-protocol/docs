@@ -16,9 +16,9 @@ Users can lock their $HONEY tokens for set periods of time and receive veHONEY a
 {% hint style="info" %}
 How much veHONEY is received for locking up 100 HONEY tokens, depending on time:\
 \
-**1 month**: 100 HONEY -> **0.48** veHONEY\
-**3 months**: 100 HONEY -> **6.37** veHONEY\
-**6 months**: 100 HONEY -> **12.74** veHONEY\
+**1 month**: 100 HONEY -> **2** veHONEY\
+**3 months**: 100 HONEY -> **6.25** veHONEY\
+**6 months**: 100 HONEY -> **12.5** veHONEY\
 **1 year**: 100 HONEY -> **25** veHONEY\
 **4 years**: 100 HONEY -> **100** veHONEY
 {% endhint %}
