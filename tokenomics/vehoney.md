@@ -6,7 +6,7 @@ description: Time weighted governance
 
 Vote escrowed HONEY (or veHONEY) represents governance in the Honey DAO.
 
-veHONEY follows the veTOKEN model created by Michael Egorov (Curve), which allows governance in DAOs to not be controlled by those with long term vested interests in the protocol.
+veHONEY follows the veTOKEN model created by Michael Egorov (Curve), which allows governance in DAOs to be controlled by those with long term vested interests in the protocol.
 
 Users can lock their $HONEY tokens for set periods of time and receive veHONEY as a function of two variables:
 
