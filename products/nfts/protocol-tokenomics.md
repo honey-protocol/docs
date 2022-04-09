@@ -56,3 +56,5 @@ Honey Finance lending markets use the following parameters as default:
 **Rslope1 constant**: `0.3`\
 **Rslope2 constant**: `1`
 {% endhint %}
+
+You can try these parameters out for yourself and test models [here](https://share.streamlit.io/simeongk/interest-rates/main.py).
