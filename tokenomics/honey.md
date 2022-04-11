@@ -8,7 +8,7 @@ The HONEY token is the lifeblood of the Honey Finance protocol. It is used to in
 
 ## Distribution
 
-The HONEY token had a fair launch on March 31st 2020 with no presale or allocation to early investors. The fair launch raised 755k and sold 85 million tokens.
+The HONEY token had a fair launch on March 31st 2022 with no presale or allocation to early investors. The fair launch raised 755k and sold 85 million tokens.
 
 77.5% of the total supply is allocated to the community.
 
