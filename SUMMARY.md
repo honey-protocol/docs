@@ -57,5 +57,6 @@
 
 ## Legal
 
+* [FAQ Legal Questions](legal/faq-legal-questions.md)
 * [Terms and Conditions](legal/terms-and-conditions.md)
-* [Disclaimer](legal/disclaimer.md)
+* [NFT sale disclaimer](legal/disclaimer.md)

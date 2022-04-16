@@ -1,10 +1,10 @@
-# Disclaimer
+# NFT sale disclaimer
 
 ## **Honey Development Association**
 
 &#x20;****&#x20;
 
-Disclaimer
+_Disclaimer_
 
 &#x20;
 
