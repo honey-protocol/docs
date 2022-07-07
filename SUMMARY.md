@@ -27,11 +27,12 @@
 
 ## About Us
 
+* [Whitepaper](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLxClA4ViEZ3CcRvINtyy%2Fuploads%2FsDr0JNKhTU5H9f9qkkX2%2Fhoney\_whitepaper.pdf?alt=media\&token=c9054e88-e3a5-43fd-a80f-ac55e2d49162)
 * [Alpha program](about-us/alpha-program/README.md)
   * [NFTs in DeFi](about-us/alpha-program/nfts-in-defi.md)
 * [Developers](about-us/developers.md)
 * [Roadmap](about-us/roadmap.md)
-* [Whitepaper](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLxClA4ViEZ3CcRvINtyy%2Fuploads%2FsDr0JNKhTU5H9f9qkkX2%2Fhoney\_whitepaper.pdf?alt=media\&token=c9054e88-e3a5-43fd-a80f-ac55e2d49162)
+* [Branding](about-us/branding.md)
 
 ## Tutorials
 

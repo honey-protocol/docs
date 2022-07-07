@@ -26,7 +26,7 @@ The protocol will never allow for loans to have a collateralisation ratio below 
 
 ## How does Honey run liquidations ?
 
-Honey Finance utilises NFT pools[ ](https://app.solvent.xyz)alongside our DAO's backstop liquidity program (BLP). The pool model allows instant liquidity to be available for NFTs while the BLP is used to stop liquidation cascades.\
+Honey Finance utilises NFT pools[ ](https://app.solvent.xyz/)alongside our DAO's backstop liquidity program (BLP). The pool model allows instant liquidity to be available for NFTs while the BLP is used to stop liquidation cascades.\
 \
 With the backstop liquidity program (BLP), individual members of the Honey DAO will be able to bid on collateral and purchase them in case of liquidations. This means bidders are purchasing long positions with a bidding price at the liquidation threshold.
 

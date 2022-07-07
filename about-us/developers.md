@@ -12,7 +12,7 @@ Tom Pandolfi founded Honey Labs to turn NFTs into powerful financial assets. Wit
 
 Tom has worked as a project developer since 2019 on Ethereum and Polygon.
 
-Most of his content can be found [here](https://tomjpandolfi.medium.com) on Medium
+Most of his content can be found [here](https://tomjpandolfi.medium.com/) on Medium
 
 \- [@tompandolfi](http://t.me/tompandolfi) [Twitter](https://twitter.com/tomjpandolfi) [LinkedIn](https://www.linkedin.com/in/tom-j-pandolfi-077b7515a/?miniProfileUrn=urn%3Ali%3Afs\_miniProfile%3AACoAACZCfRsBr\_YmxhmHUQ78xWNKuNRWuSIwrC8)
 

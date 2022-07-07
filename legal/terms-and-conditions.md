@@ -68,7 +68,7 @@ Please visit the Website and read the Information (as defined below) for yoursel
 
 &#x20;
 
-**Interface** – means the current interface allowing interaction with the Protocol, [https://app.honey.finance/](https://app.honey.finance), and any other interface which may be developed in the future by the Seller or any other person.
+**Interface** – means the current interface allowing interaction with the Protocol, [https://app.honey.finance/](https://app.honey.finance/), and any other interface which may be developed in the future by the Seller or any other person.
 
 &#x20;****&#x20;
 
@@ -112,7 +112,7 @@ Please visit the Website and read the Information (as defined below) for yoursel
 
 &#x20;
 
-**Website** – means [https://docs.honey.finance/](https://docs.honey.finance) or [https://www.honey.finance/](https://www.honey.finance) (as amended or changed from time to time)
+**Website** – means [https://docs.honey.finance/](https://docs.honey.finance/) or [https://www.honey.finance/](https://www.honey.finance/) (as amended or changed from time to time)
 
 &#x20;
 
