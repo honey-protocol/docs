@@ -1,62 +1,60 @@
 # Roadmap
 
-## **Quarterly roadmap**
+_Last updated: July 23rd 2022_
 
 {% hint style="info" %}
-#### Key: ✅ Done / ☑️Work in Progress / ❌Not started
+**Ongoing**: Part of the current dev cycle
+
+**Upcoming**: Planned in an upcoming dev cycle
+
+**Past**: Completed in previous dev cycles
+
+**Exploring**: product specifications are not completed
 {% endhint %}
 
-**Q2 2021**
+## Ongoing
 
-&#x20;✅ Secure partnerships
+* [ ] Liquidation overhaul ([learn more](https://medium.com/honeylabs/honey-nft-liquidations-c1120a7f623f))
+* [ ] Updated veGovernance
+* [ ] UI/UX redesign
+  * [x] Brandkit
+  * [x] Landing page
+  * [ ] Dapp
 
-&#x20;✅ Creating first procedurally generated DAO NFTs
+_**Top secret**_ :eyes:_****_
 
-&#x20;✅ Auditing and doxxing
+* [ ] Project Varrock
 
-#### Q3 2021
+## Past
 
-&#x20;✅ Early seed funding
+_This only includes significant project milestones and finished products._
 
-&#x20;✅ NFT collaborations
+* [x] Ethereum testnet deployment
+* [x] Solana devnet deployment
+* [x] Oracle integrations Ethereum + Solana (open source)
+* [x] Creation of Honey SDK ([open source](https://github.com/honey-labs/honey-sdk))
+* [x] Build farm refresh tool for gemfarm ([open source](https://github.com/honey-labs/farm-refresh))
+* [x] Project incorporation / legal review
+* [x] pHONEY conversion tool ([open source](https://github.com/honey-labs/veHONEY))
+* [x] IDO platform ([open source](https://github.com/honey-labs/honey-ido-pool))
+* [x] Staking aggregator for NFTs ([open source](https://github.com/honey-labs/honey-frontend))
+* [x] NFT mint
 
-&#x20;✅ Launch [Alpha program](alpha-program/)
+## Upcoming
 
-&#x20;✅ Backend for lending protocol
+* [ ] Project Leviathan
+* [ ] Solana beta launch
+* [ ] Ethereum alpha launch
+* [ ] Audit (including new liquidation overhaul)
+* [ ] HIP#4 ([learn more](https://forum.honey.finance/t/rfc-vesting-nfts-for-upfront-governance/394?u=tom))
+* [ ] Honey research center
 
-&#x20;✅ Creating backend for NFT pools
+## Exploring
 
-&#x20;✅ Incorporation and legal
-
-#### Q4 2021
-
-&#x20;✅ Stake NFTs in Farms
-
-&#x20;✅ Front end for protocol interaction (Dec.)
-
-#### &#x20;Q1 2022
-
-&#x20;✅ Alpha testing lending / borrowing
-
-&#x20;✅ IDO and NFT sale to raise money for insurance pool
-
-&#x20;✅ Integrating with third-party lending / yield farming platforms
-
-&#x20;✅ Cross-chain deployment on Testnets
-
-❌ Insurance derivatives on NFT loans
-
-**Q2 2022**
-
-✅ **** pHONEY conversion tool
-
-☑️ Solana Mainnet launch
-
-☑️ **** Audit
-
-❌ First NFT experimental airdrops
-
-❌ NFT yield vaults
-
-☑️ Metaverse integration
+* [ ] $HONEY insurance for grace periods
+* [ ] Permissionless pool creation tool
+* [ ] Metaverse integration
+* [ ] Yield vaults for NFT holders ([learn more](https://blog.honey.finance/honey-x-katana-94ba747e6487))
+* [ ] Loan refinancing
+* [ ] Complex collateral
 
