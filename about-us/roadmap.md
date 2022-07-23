@@ -27,11 +27,12 @@ _**Top secret**_ :eyes:_****_
 
 ## Past
 
-_This only includes significant project milestones and finished products._
+_This only includes significant project milestones and open source finished products._
 
 * [x] Ethereum testnet deployment
 * [x] Solana devnet deployment
 * [x] Oracle integrations Ethereum + Solana (open source)
+* [x] HIP#3, HIP#2 and HIP#1 ([learn more](https://forum.honey.finance/c/governance-proposals/5))
 * [x] Creation of Honey SDK ([open source](https://github.com/honey-labs/honey-sdk))
 * [x] Build farm refresh tool for gemfarm ([open source](https://github.com/honey-labs/farm-refresh))
 * [x] Project incorporation / legal review
