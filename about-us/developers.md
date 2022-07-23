@@ -16,14 +16,14 @@ Most of his content can be found [here](https://tomjpandolfi.medium.com/) on Med
 
 \- [@tompandolfi](http://t.me/tompandolfi) [Twitter](https://twitter.com/tomjpandolfi) [LinkedIn](https://www.linkedin.com/in/tom-j-pandolfi-077b7515a/?miniProfileUrn=urn%3Ali%3Afs\_miniProfile%3AACoAACZCfRsBr\_YmxhmHUQ78xWNKuNRWuSIwrC8)
 
-## 👨‍💻 0xPedr0 / Head of Communications
+## 👨‍💻 0xPedr0 / Treasurer HDA
 
 > 0xpedr0.sol
 
 0xPedro handles external and internal communications for Honey. He is responsible for partnerships, overseeing the DAO's proposals, and communications.\
 
 
-He is also treasurer and board member of the Honey Development Association, a registered association serving as the legal hand of the Honey DAO. &#x20;
+He is also treasurer and board member of the Honey Development Association, a registered entity serving as the legal hand of the Honey DAO.&#x20;
 
 \- [@0xpedr0](https://twitter.com/0xPedr0)
 
@@ -31,13 +31,13 @@ He is also treasurer and board member of the Honey Development Association, a re
 
 > dariusfoodeei.eth/.sol
 
-Darius Foodeei is co-founder and oversees development operations & research for Honey Finance. Spearheading product development to push out the highest quality products and services.&#x20;
+Darius Foodeei is co-founder and oversees development operations. Spearheading product development to push out the highest quality products and services.&#x20;
 
 He has been a DeFi and blockchain enthusiast for a year and half now.
 
 [Telegram](https://t.me/dariusfdi) - [Twitter](https://twitter.com/dariusfoodeei)
 
-## 🧞‍♂️ Bagchaserjoe / Senior Executive Intern
+## 🧞‍♂️ Bagchaserjoe / Head of Research
 
 > bagchaserjoe.sol
 
