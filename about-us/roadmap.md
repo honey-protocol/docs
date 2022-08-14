@@ -14,20 +14,22 @@ _Last updated: July 23rd 2022_
 
 ## Ongoing
 
-* [ ] Liquidation overhaul ([learn more](https://medium.com/honeylabs/honey-nft-liquidations-c1120a7f623f))
-* [ ] Updated veGovernance
 * [ ] UI/UX redesign
   * [x] Brandkit
   * [x] Landing page
   * [ ] Dapp
 
-_**Top secret**_ :eyes:_****_
-
-* [ ] Project Varrock
-
 ## Past
 
 _This only includes significant project milestones and open source finished products._
+
+### Last dev cycle (2 weeks)
+
+* [x] Project Varrock
+* [x] Liquidation overhaul
+* [x] Updated veGovernance
+
+### Previous
 
 * [x] Ethereum testnet deployment
 * [x] Solana devnet deployment

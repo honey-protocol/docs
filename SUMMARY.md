@@ -13,6 +13,11 @@
   * [Lending](products/nfts/lending.md)
   * [Market admins](products/nfts/market-admins.md)
   * [Protocol maths](products/nfts/protocol-tokenomics.md)
+* [Honey P2P](products/honey-p2p/README.md)
+  * [Borrowing](products/honey-p2p/borrowing.md)
+  * [Lending](products/honey-p2p/lending.md)
+  * [Protocol fees](products/honey-p2p/protocol-fees.md)
+  * [Refinancing](products/honey-p2p/refinancing.md)
 * [Genesis NFTs](products/genesis-nfts/README.md)
   * [Liquidity Mining](products/genesis-nfts/liquidity-mining.md)
   * [Alpha program](products/genesis-nfts/alpha-program.md)
@@ -37,6 +42,7 @@
 ## Tutorials
 
 * [Tutorials](tutorials/tutorials/README.md)
+  * [P2P borrowing](tutorials/tutorials/p2p-borrowing.md)
   * [Lending and Borrowing tutorial](tutorials/tutorials/lending-and-borrowing-tutorial.md)
   * [pHONEY conversion tutorial](tutorials/tutorials/phoney-conversion-tutorial.md)
   * [pHONEY locking tutorial](tutorials/tutorials/phoney-locking-tutorial.md)
@@ -47,6 +53,7 @@
 * [FAQ](faq/faq/README.md)
   * [Farms FAQ](faq/faq/farms-faq.md)
   * [Genesis Bee NFT FAQ](faq/faq/genesis-bee-nft-faq.md)
+  * [Peer-to-Peer FAQ](faq/faq/peer-to-peer-faq.md)
   * [Lending & Borrowing FAQ](faq/faq/lending-and-borrowing-faq.md)
 
 ## LINKS
