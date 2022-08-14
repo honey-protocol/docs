@@ -1,6 +1,6 @@
 # Protocol fees
 
-10% of what lenders receive (lending fee) + 1.5% of debt (borrower fee)
+Honey P2P has 2 protocol fees: 10% of what lenders receive (lending fee) + 1.5% of debt (borrower fee).
 
 {% hint style="info" %}
 <mark style="color:blue;">**Example of loan on Honey P2P**</mark>\
