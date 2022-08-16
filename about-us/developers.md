@@ -53,5 +53,9 @@ Members of the Honey Development Association, whose mission is to help build the
 * [@Heron](https://twitter.com/BowTiedHeron)&#x20;
 * [@Swan](https://twitter.com/BowTiedSwan)
 * [@bbroeking](https://twitter.com/bbroeking)
+* [@BowTiedPickle](https://twitter.com/BowTiedPickle)
+* [@M4rio](https://twitter.com/m4rio\_eth)
 
 and a special thank you to [@0xSheik](https://twitter.com/0xCryptoSheik) , [@mmdhrumil](https://twitter.com/mmdhrumil) and [@rleshner](https://twitter.com/rleshner) 💛
+
+Join us by developing on top of our [open-source code](https://github.com/honey-labs)
