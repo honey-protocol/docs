@@ -27,11 +27,9 @@ He is also treasurer and board member of the Honey Development Association, a re
 
 \- [@0xpedr0](https://twitter.com/0xPedr0)
 
-## 🦸🏻‍♂️ Darius Foodeei / Developer Operations
+## 🦸🏻‍♂️ 0xDarius / Developer Operations
 
-> dariusfoodeei.eth/.sol
-
-Darius Foodeei is co-founder and oversees development operations. Spearheading product development to push out the highest quality products and services.&#x20;
+0xDarius is co-founder and oversees development operations. Spearheading product development to push out the highest quality products and services.&#x20;
 
 He has been a DeFi and blockchain enthusiast for a year and half now.
 
