@@ -1,6 +1,6 @@
 # Refinancing
 
-Refinancing loans is a process in which a user can move from a P2C loan to a P2P loan. A user will&#x20;
+Refinancing loans is a process in which a user can move from a P2C loan to a P2P loan.
 
 {% hint style="info" %}
 <mark style="color:blue;">**Example of refinancing**</mark>\
