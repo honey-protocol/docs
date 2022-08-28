@@ -14,6 +14,8 @@ _Last updated: July 23rd 2022_
 
 ## Ongoing
 
+* [ ] Audit w/ OtterSec
+* [ ] Solana beta launch
 * [ ] UI/UX redesign
   * [x] Brandkit
   * [x] Landing page
@@ -25,9 +27,9 @@ _This only includes significant project milestones and open source finished prod
 
 ### Last dev cycle (2 weeks)
 
-* [x] Project Varrock
-* [x] Liquidation overhaul
-* [x] Updated veGovernance
+* [x] Honey Research Centre
+* [x] Integrate new liquidation engine
+* [x] P2P upgrade package (counter offers, improved rates, etc.)
 
 ### Previous
 
@@ -36,21 +38,21 @@ _This only includes significant project milestones and open source finished prod
 * [x] Oracle integrations Ethereum + Solana (open source)
 * [x] HIP#3, HIP#2 and HIP#1 ([learn more](https://forum.honey.finance/c/governance-proposals/5))
 * [x] Creation of Honey SDK ([open source](https://github.com/honey-labs/honey-sdk))
+* [x] Project Varrock
 * [x] Build farm refresh tool for gemfarm ([open source](https://github.com/honey-labs/farm-refresh))
 * [x] Project incorporation / legal review
 * [x] pHONEY conversion tool ([open source](https://github.com/honey-labs/veHONEY))
 * [x] IDO platform ([open source](https://github.com/honey-labs/honey-ido-pool))
+* [x] Liquidation overhaul
 * [x] Staking aggregator for NFTs ([open source](https://github.com/honey-labs/honey-frontend))
+* [x] Updated veGovernance
 * [x] NFT mint
 
 ## Upcoming
 
 * [ ] Project Leviathan
-* [ ] Solana beta launch
 * [ ] Ethereum alpha launch
-* [ ] Audit (including new liquidation overhaul)
 * [ ] HIP#4 ([learn more](https://forum.honey.finance/t/rfc-vesting-nfts-for-upfront-governance/394?u=tom))
-* [ ] Honey research center
 
 ## Exploring
 
