@@ -9,7 +9,7 @@ description: Borrow and lend with your NFTs
 
 🏦 NFT collateralisation is being tested in our 🧪[alpha program](https://discord.gg/T7RQ8hMamB)
 
-⚗️ Staking is live ! [Stake your NFTs](https://app.honey.finance) to receive $HONEY
+📚 Honey resources is [live](https://www.notion.so/honey-resources/Honey-Resources-3856fb63153944e5bd1f9792830b2328) ! All of the information you need about Honey.
 
 📑 Code has been open sourced, feel free to [contribute](https://github.com/honey-labs)
 {% endhint %}
