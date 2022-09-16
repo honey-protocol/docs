@@ -1,6 +1,6 @@
 # Roadmap
 
-_Last updated: July 23rd 2022_
+_Last updated: Sep 16th 2022_
 
 {% hint style="info" %}
 **Ongoing**: Part of the current dev cycle
@@ -15,11 +15,22 @@ _Last updated: July 23rd 2022_
 ## Ongoing
 
 * [ ] Audit w/ OtterSec
-* [ ] Solana beta launch
 * [ ] UI/UX redesign
   * [x] Brandkit
   * [x] Landing page
   * [ ] Dapp
+    * [x] Borrow page
+    * [x] Lending page
+    * [x] Liquidate page
+    * [ ] Dashboard
+* [ ] HIP#4 ([learn more](https://forum.honey.finance/t/rfc-vesting-nfts-for-upfront-governance/394?u=tom))
+  * [x] Proposal draft
+  * [x] Programs
+  * [ ] Testing
+* [ ] Project Leviathan
+  * [x] Partnerships
+  * [ ] Docs
+  * [x] Programs
 
 ## Past
 
@@ -27,6 +38,7 @@ _This only includes significant project milestones and open source finished prod
 
 ### Last dev cycle (2 weeks)
 
+* [x] Solana beta launch
 * [x] Honey Research Centre
 * [x] Integrate new liquidation engine
 * [x] P2P upgrade package (counter offers, improved rates, etc.)
@@ -50,9 +62,8 @@ _This only includes significant project milestones and open source finished prod
 
 ## Upcoming
 
-* [ ] Project Leviathan
 * [ ] Ethereum alpha launch
-* [ ] HIP#4 ([learn more](https://forum.honey.finance/t/rfc-vesting-nfts-for-upfront-governance/394?u=tom))
+* [ ] Creation of proprietary oracle
 
 ## Exploring
 

@@ -40,10 +40,3 @@ Create lending markets on the platform and set an admin fee. Liquidations and in
 [market-admins.md](market-admins.md)
 {% endcontent-ref %}
 
-
-
-## Liquidations
-
-An NFT can be used to create a debt position in a corresponding lending market. Each market is based around an NFT collection, and quotes the floor price of the associated collection as the value of the collateral.
-
-When borrowing, users are allowed to withdraw based on their allowance. The allowance can be defined as, how much value are you able to receive as a percentage of the floor price.
