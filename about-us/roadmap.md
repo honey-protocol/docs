@@ -1,6 +1,6 @@
 # Roadmap
 
-_Last updated: Sep 16th 2022_
+_Last updated: Sep 20th 2022_
 
 {% hint style="info" %}
 **Ongoing**: Part of the current dev cycle
@@ -31,6 +31,7 @@ _Last updated: Sep 16th 2022_
   * [x] Partnerships
   * [ ] Docs
   * [x] Programs
+* [x] SDK documentation
 
 ## Past
 

@@ -59,10 +59,10 @@
 ## LINKS
 
 * [Code](https://github.com/honey-labs)
+* [SDK](https://sdk.honey.finance/)
 * [Resources](https://www.notion.so/honey-resources/Honey-Resources-3856fb63153944e5bd1f9792830b2328)
 * [Discord](https://discord.gg/KQc2SYgTzJ)
 * [Website](https://honey.finance)
-* [App (beta)](https://app.honey.finance)
 
 ## Legal
 
