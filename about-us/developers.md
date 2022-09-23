@@ -16,16 +16,28 @@ Most of his content can be found [here](https://tomjpandolfi.medium.com/) on Med
 
 \- [@tompandolfi](http://t.me/tompandolfi) [Twitter](https://twitter.com/tomjpandolfi) [LinkedIn](https://www.linkedin.com/in/tom-j-pandolfi-077b7515a/?miniProfileUrn=urn%3Ali%3Afs\_miniProfile%3AACoAACZCfRsBr\_YmxhmHUQ78xWNKuNRWuSIwrC8)
 
-## 👨‍💻 0xPedr0 / Treasurer HDA
+
+
+## 🥷🏻 Perkins - Head of Security
+
+Perkins, an advocate for Decentralized Finance and security has spent the past 3 years working alongside developers and investors alike to bring the power of DeFi to the average man.
+
+He has recently started Perkins Solutions LLC (FL) to help DAOs, decentralised companies, and protocols maintain security for their teams and projects.
+
+Reach out to Perkins at:
+
+* E-Mail: [perkinssolutionsllc@gmail.com](mailto:perkinssolutionsllc@gmail.com)
+* E-Mail: [perkins@honeylabs.io](mailto:perkins@honeylabs.io)
+
+## 👨‍💻 0xPedr0 / Business Development
 
 > 0xpedr0.sol
 
-0xPedro handles external and internal communications for Honey. He is responsible for partnerships, overseeing the DAO's proposals, and communications.\
+His role is to create synergies with other DeFi protocols and NFT projects, embedding Honey’s systems across the ecosystem.
 
+0xPedr0 is at the center of Honey’s most important partnerships.
 
-He is also treasurer and board member of the Honey Development Association, a registered entity serving as the legal hand of the Honey DAO.&#x20;
-
-\- [@0xpedr0](https://twitter.com/0xPedr0)
+* Twitter: [@0xpedr0](https://twitter.com/0xPedr0)
 
 ## 🦸🏻‍♂️ 0xDarius / Developer Operations
 
@@ -47,14 +59,27 @@ He is in charge of crunching numbers, as well as modelling the implementation of
 
 Members of the Honey Development Association, whose mission is to help build the Honey Finance protocol.
 
-* [@jayne](https://twitter.com/0xjayne)
-* [@sundeepcharan](https://twitter.com/SundeepCharan)
-* [@azothzephyr](https://twitter.com/AzothZephyr)
-* [@Heron](https://twitter.com/BowTiedHeron)&#x20;
-* [@Swan](https://twitter.com/BowTiedSwan)
-* [@bbroeking](https://twitter.com/bbroeking)
-* [@BowTiedPickle](https://twitter.com/BowTiedPickle)
-* [@M4rio](https://twitter.com/m4rio\_eth)
+* @Heron - Developer Relations
+* @bbroeking - Senior Backend engineer, Solana
+* @arcpinus - Backend engineer, Solana
+* @Yuriagile - Backend engineer, Solana
+* @hashdaan - Front end engineer
+* @Firefox - Front end engineer, Ethereum
+* @pyro - Front end engineer, Solana
+* @SolBerenson - Full stack engineer
+* @Gonzalo - Full stack engineer, governance
+* @bowtiedpickle - Backend engineer, Ethereum
+* @m4rio -Backend engineer, Ethereum
+
+## 📂 Open-Source Contributors
+
+You can join our list of open-source contributors by following the instructions on our [Github](https://github.com/honey-labs).
+
+* @azothzephyr
+* @sundeepcharan
+* @swan
+* @jayne
+* @TinyBigIdeas
 
 and a special thank you to [@0xSheik](https://twitter.com/0xCryptoSheik) , [@mmdhrumil](https://twitter.com/mmdhrumil) and [@rleshner](https://twitter.com/rleshner) 💛
 

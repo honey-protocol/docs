@@ -22,9 +22,9 @@ You can find the guidelines to our branding here or in the PDF below.
 
 Primary: HEX #E7B400
 
-Orange: HEX # E78B00
+Orange: HEX #E78B00
 
-Light grey: HEX # E5E5E5
+Light grey: HEX #E5E5E5
 
 ## Disclaimer
 

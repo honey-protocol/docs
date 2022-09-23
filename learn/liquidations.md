@@ -18,6 +18,8 @@ _Example: Your NFT is worth 100 SOL, you borrow 60 SOL (60% LTV ratio). If the f
 **Reminder**: undercollateralisation is dangerous in DeFi, since the lender has given you more than the collateral you've given them. What's to stop you from runnning away with the money ? That's why we have to stop undercollateralised positions from ever existing.
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
 ## Liquidation thresholds
 
 One of the worst thing that can happen to a protocol is not being able to pay back lenders who deposited funds into the platform. To ensure that does not happen, assets are liquidated before they get too close to undercollateralisation.\
