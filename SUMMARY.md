@@ -13,6 +13,7 @@
   * [Lending](products/nfts/lending.md)
   * [Market admins](products/nfts/market-admins.md)
   * [Protocol maths](products/nfts/protocol-tokenomics.md)
+  * [Protocol risks](products/nfts/protocol-risks.md)
 * [Honey P2P](products/honey-p2p/README.md)
   * [Borrowing](products/honey-p2p/borrowing.md)
   * [Lending](products/honey-p2p/lending.md)
