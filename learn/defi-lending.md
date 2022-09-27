@@ -16,13 +16,15 @@ If you pay back your loan, you will receive your collateral NFT back. This also 
 
 
 
-## Collateral ratio
+## Allowance
 
-C-ratio or Collateral ratio represents the value of your collateral (your deposited NFT) divided by the value of your loan. In overcolalteralised loans, this ratio should always be greater > 1, and because it is expressed in percentages, it will always be greater than 100%.
+Allowance determines how much a borrower is able to withdraw from the value of their collateral.
 
-![Example: Your NFT (collateral) is worth 100 SOL, you borrow 50 SOL. Your C ratio = 200%](<../.gitbook/assets/image (2).png>)
+In overcollateralised markets, allowance is always worth less than the estimated value of the collateral. It's measured using [LTV](defi-lending.md#loan-to-value-ratio), but it is not the same thing as LTV.
 
+While the allowance marks the limit of what a borrower can manually borrower, a borrower's LTV can go above the allowance if interest accrues, or if the value of their collateral decreases.&#x20;
 
+Allowance is adjusted and increased after loans are partially paid back, but it will never go above the market's predefined parameters.
 
 ## Loan-to-Value ratio
 
@@ -32,15 +34,17 @@ It's the inverse equation of the the collateralisation ratio.
 
 ![Example: Your NFT (collateral) is worth 100 SOL, you borrow 50 SOL. Your LTV = 50%](<../.gitbook/assets/image (1) (1) (1).png>)
 
-## Health factor
+## Debt
 
-Tracking the health of your loans is incredibly important to avoid bad surprises. Remember, all loans in DeFi must be overcollateralised, because we can't track you down if you don't pay back the lenders. The more your loan is overallateralised, the healthier it is.\
+Debt is the amount of money that is being used by borrowers. It has left the protocol, and is insured by collateral provided by borrowers.
+
+{% hint style="warning" %}
+"‘... 'debt’ is a legally enforceable promise from a debtor to a creditor to pay an interest rate and eventually repay the principal. Therefore, ‘debt’ cannot exist without legal agreements and cannot be enforced without courts of law." [_Yearn disclaimer_](https://yearn.finance/disclaimer)\
 \
-If the value of the collateral (the NFT) dips below a certain point, the protocol must trigger a liquidation to guarantee the lenders are paid back. A health factor of 0 means your loan is below this liquidation threshold, and can be liquidated. A health factor approaching 100% means your Loan to value is below 10%. This means your collateral is worth 10x more than your loan.
+Meaning that debt in DeFi simply emulates how credit works in the traditional financial system, but it is not legally the same thing.
+{% endhint %}
 
-Having a high health factor doesn't guarantee you will not get liquidated, in a catastrophic market down turn, even healthy positions get sold off. - read more
-
-
+Debt in DeFi is overcollateralised. The interest rate, sometimes referred to as borrow APR accrues on debt, which increases the amount owed to lenders.
 
 ## APR vs APY
 
