@@ -41,6 +41,7 @@
 
 * [Whitepaper](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLxClA4ViEZ3CcRvINtyy%2Fuploads%2FsDr0JNKhTU5H9f9qkkX2%2Fhoney\_whitepaper.pdf?alt=media\&token=c9054e88-e3a5-43fd-a80f-ac55e2d49162)
 * [Developers](about-us/developers.md)
+* [Risk Methodology](about-us/risk-methodology.md)
 * [Roadmap](about-us/roadmap.md)
 * [Branding](about-us/branding.md)
 
