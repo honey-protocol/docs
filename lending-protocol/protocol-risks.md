@@ -30,7 +30,7 @@ Liquidations should happen in the best available AMMs and pools, however if slip
 
 This bad debt accrues in the isolated risk market, it does not necessarily affect a lenders ability to withdraw assets, however it will take time for interest accrued by lenders to pay off the bad debt in the IRM.
 
-To learn more about Honey's liquidation engine, read [here](../../learn/liquidations.md).
+To learn more about Honey's liquidation engine, read [here](liquidations.md).
 
 Preparing liquidations as loans approach their maximum risk thresholds also means that there are no grace periods, again, minimising bad debt in the protocol. A grace period would result in somebody holding on to the bad debt while waiting for borrowers to potentially pay back their loans. Unless lenders create a market where they accept to temporarily hold on to this bad debt, there is no grace period mechanism by which the DAO or the protocol would hold on to bad debt on behalf of borrowers.
 
@@ -44,7 +44,7 @@ As lenders withdraw their capital, the utilisation rate will increase, since a l
 
 Rising interest rates will trigger liquidations, however if the majority of lenders decide to withdraw their funds at the same time or in a very short window of time, they will have to wait for increased interest rates to accrue on borrowers. This period of time where funds are unavailable to lenders is the result of a bank run.
 
-To minimise the risk of being caught in a bank run, lenders should always check the utilisation rate of the markets in which they lend. At 100% utilisation, they will need borrowers to either pay back their loan, or be liquidated before withdrawing funds. To learn more about utilisation rates, read [here](../../faq/faq/lending-and-borrowing-faq.md).
+To minimise the risk of being caught in a bank run, lenders should always check the utilisation rate of the markets in which they lend. At 100% utilisation, they will need borrowers to either pay back their loan, or be liquidated before withdrawing funds. To learn more about utilisation rates, read [here](../faq/faq/lending-and-borrowing-faq.md).
 
 ## Oracle risks
 

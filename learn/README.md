@@ -17,8 +17,8 @@ It is only through rigorous learning that we can utilise these tools to their fu
 [defi-lending.md](defi-lending.md)
 {% endcontent-ref %}
 
-{% content-ref url="liquidations.md" %}
-[liquidations.md](liquidations.md)
+{% content-ref url="../lending-protocol/liquidations.md" %}
+[liquidations.md](../lending-protocol/liquidations.md)
 {% endcontent-ref %}
 
 {% content-ref url="risks.md" %}

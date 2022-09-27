@@ -1,10 +1,8 @@
 ---
-description: NFT loans
+description: Peer-To-Contract NFT loans
 ---
 
-# Lending Protocol
-
-## Overview
+# Overview
 
 Honey Finance is composed of multiple lending markets. Each collection has an associated lending market which must be approved by veHONEY holders.
 
