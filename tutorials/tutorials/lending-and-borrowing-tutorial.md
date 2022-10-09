@@ -5,7 +5,7 @@ description: How to create NFT loans on Honey Finance
 # Create a loan
 
 {% tabs %}
-{% tab title="Step 1 - Wallet" %}
+{% tab title="Step 1 - Connect" %}
 ### Connect wallet
 
 You will first need to connect your Solana wallet to the application. Simply click connect wallet, select your wallet provider, and approve the prompt from your wallet provider to connect to the website.
@@ -13,26 +13,32 @@ You will first need to connect your Solana wallet to the application. Simply cli
 ![](<../../.gitbook/assets/image (6).png>)
 {% endtab %}
 
-{% tab title="Step 2 - Selection" %}
+{% tab title="Step 2 - Market selection" %}
 ### Select a market
 
 Head over to the borrow page, where you will see a list of available markets.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
-Each market serves an NFT collection, select a market for an NFT that you own, and your NFTs from the selected collection will show up on the right.\
+Each market serves an NFT collection, select a market for an NFT that you own, and your NFTs from the selected collection will show up on the right.
+{% endtab %}
 
-
+{% tab title="Step 3 - Select NFT" %}
 ### Choose an NFT
+
+Select an NFT from that collection, and click the `DEPOSIT NFT` button to deposit the NFT onto the platform.&#x20;
+
+{% hint style="info" %}
+At the moment, markets are limited to 1 loan per wallet, to protect markets at launch. This means only 1 of your NFTs at a time can be used as collateral in a market.
+{% endhint %}
 
 ![](<../../.gitbook/assets/image (11).png>)
 
-Select an NFT from that collection, and deposit it onto the platform. At the moment, markets are limited to 1 loan per wallet, to protect markets at launch. This means only 1 of your NFTs at a time can be used as collateral in a market.\
 \
-Depositing the NFT creates a loan position, with a debt of 0 SOL. No interest is accruing until you borrow.
+Depositing the NFT creates a loan position, with a debt of 0 SOL. No interest is accruing until you borrow SOL.
 {% endtab %}
 
-{% tab title="Step 3 - Borrow" %}
+{% tab title="Step 4 - Borrow" %}
 ### Borrow SOL&#x20;
 
 After depositing an NFT into a market, you can now borrow liquidity from lenders. The NFT you have deposited serves as collateral.

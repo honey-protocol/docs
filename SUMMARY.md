@@ -51,10 +51,11 @@
 ## Tutorials
 
 * [Tutorials](tutorials/tutorials/README.md)
-  * [P2P borrowing](tutorials/tutorials/p2p-borrowing.md)
   * [Create a loan](tutorials/tutorials/lending-and-borrowing-tutorial.md)
+  * [Repay a loan](tutorials/tutorials/repay-a-loan.md)
   * [pHONEY conversion tutorial](tutorials/tutorials/phoney-conversion-tutorial.md)
   * [pHONEY locking tutorial](tutorials/tutorials/phoney-locking-tutorial.md)
+  * [P2P borrowing](tutorials/tutorials/p2p-borrowing.md)
   * [Staking v3 tutorial](tutorials/tutorials/staking-v3-tutorial.md)
 
 ## FAQ
