@@ -4,8 +4,8 @@ Borrowers request **fixed duration** loans with their NFTs being used as collate
 
 You can follow our step-by-step tutorial below:
 
-{% content-ref url="../../tutorials/tutorials/p2p-borrowing.md" %}
-[p2p-borrowing.md](../../tutorials/tutorials/p2p-borrowing.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Paying interest
@@ -40,6 +40,6 @@ Until the lender decides to liquidate, borrowers can still repay their loan and 
 
 ## Want to learn more ?
 
-{% content-ref url="../../faq/faq/peer-to-peer-faq.md" %}
-[peer-to-peer-faq.md](../../faq/faq/peer-to-peer-faq.md)
+{% content-ref url="../faq/faq/peer-to-peer-faq.md" %}
+[peer-to-peer-faq.md](../faq/faq/peer-to-peer-faq.md)
 {% endcontent-ref %}
