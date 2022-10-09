@@ -12,8 +12,12 @@
 * [Lending](lending-protocol/lending.md)
 * [Liquidations](lending-protocol/liquidations.md)
 * [Market admins](lending-protocol/market-admins.md)
-* [Protocol maths](lending-protocol/protocol-tokenomics.md)
-* [Protocol risks](lending-protocol/protocol-risks.md)
+* [Interest Rates](lending-protocol/interest-rates/README.md)
+  * [Protocol maths](lending-protocol/interest-rates/protocol-tokenomics.md)
+* [Risk](lending-protocol/risk/README.md)
+  * [Security](lending-protocol/risk/security.md)
+  * [Risk Methodology](lending-protocol/risk/risk-methodology.md)
+  * [Protocol risks](lending-protocol/risk/protocol-risks.md)
 
 ## Honey P2P
 
@@ -41,7 +45,6 @@
 
 * [Whitepaper](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLxClA4ViEZ3CcRvINtyy%2Fuploads%2FsDr0JNKhTU5H9f9qkkX2%2Fhoney\_whitepaper.pdf?alt=media\&token=c9054e88-e3a5-43fd-a80f-ac55e2d49162)
 * [Developers](about-us/developers.md)
-* [Risk Methodology](about-us/risk-methodology.md)
 * [Roadmap](about-us/roadmap.md)
 * [Branding](about-us/branding.md)
 

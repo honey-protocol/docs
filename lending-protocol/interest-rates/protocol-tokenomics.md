@@ -4,15 +4,9 @@ description: Calculating interest rates and risk
 
 # Protocol maths
 
-## Interest Rates
+## Utilisation
 
-Interest rates on loans, also referred to as borrow APR, is calculated to reflect supply and demand for capital in lending markets. Supply is represented by lenders supplying liquidity or capital, and demand is represented by borrowers who seek capital in exchange for depositing collateral.
-
-If there is an abundance of capital allocated to a market, more than is necessary, interest rates will be low. If however there is a shortage of capital in another market, which means strong demand with low supply, then interest will be higher.&#x20;
-
-This incentivises capital to be allocated where it is most needed. Interest rates become a signal for lenders to indicate where money is most needed, and where in turn they can get the highest return on their capital.
-
-This supply and demand for liquidity is measured with the **utilisation rate**, in other words, how much of the supplied liquidity is being borrowed (utilised) by borrowers. The higher the utilisation rate, the higher the interest rate in a lending market.
+This current state of supply and demand for liquidity is measured with the **utilisation rate**, in other words, how much of the supplied liquidity is being borrowed (utilised) by borrowers. The higher the utilisation rate, the higher the interest rate in a lending market.
 
 {% hint style="info" %}
 _Ut_ = utilisation rate at time _t_\
@@ -27,8 +21,6 @@ _Rslope2_ = constant which determines the progression of the interest rate **aft
 The protocol has built in incentives in the interest rate model. To be capitally efficient, it sets an _optimal utilisation rate._ Below this rate, the protocol will incentivise utilisation, above this rate and it will disincentivise utilisation.
 
 Two different slopes are used to measure interest rates, one for when utilisation is below optimal, and one for when it is above the optimal rate.
-
-
 
 When not enough borrowers are borrowing available liquidity, the interest rate will be calculated as such:
 
