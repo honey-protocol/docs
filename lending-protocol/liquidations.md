@@ -21,7 +21,7 @@ __If the numerator goes up (more debt), or if the denominator goes down (less co
 The higher the LTV, the more risky a loan becomes. Each market has a maximum LTV, called the **liquidation threshold**, which determines when a position is too high risk and must be liquidated.\
 
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Liquidation thresholds
 
@@ -58,4 +58,4 @@ Instead, Honey prepares liquidations on collateral as soon as it's deposited int
 
 The moment that an NFT crosses its liquidation threshold, it is immediately sold to the highest bidder. If there are no bids big enough to cover the debt, then Honey aggregates different NFT AMMs to find instant liquidity for the collateral. In all cases, collateral is sold instantly, to not allow bad debt to accrue in the protocol.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>

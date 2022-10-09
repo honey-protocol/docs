@@ -13,11 +13,11 @@
 * [Liquidations](lending-protocol/liquidations.md)
 * [Market admins](lending-protocol/market-admins.md)
 * [Interest Rates](lending-protocol/interest-rates/README.md)
-  * [Protocol maths](lending-protocol/interest-rates/protocol-tokenomics.md)
+  * [Protocol maths](lending-protocol/protocol-tokenomics.md)
 * [Risk](lending-protocol/risk/README.md)
   * [Security](lending-protocol/risk/security.md)
-  * [Risk Methodology](lending-protocol/risk/risk-methodology.md)
-  * [Protocol risks](lending-protocol/risk/protocol-risks.md)
+  * [Risk Methodology](about-us/risk-methodology.md)
+  * [Protocol risks](lending-protocol/protocol-risks.md)
 
 ## Honey P2P
 
@@ -52,7 +52,7 @@
 
 * [Tutorials](tutorials/tutorials/README.md)
   * [P2P borrowing](tutorials/tutorials/p2p-borrowing.md)
-  * [Lending and Borrowing tutorial](tutorials/tutorials/lending-and-borrowing-tutorial.md)
+  * [Create a loan](tutorials/tutorials/lending-and-borrowing-tutorial.md)
   * [pHONEY conversion tutorial](tutorials/tutorials/phoney-conversion-tutorial.md)
   * [pHONEY locking tutorial](tutorials/tutorials/phoney-locking-tutorial.md)
   * [Staking v3 tutorial](tutorials/tutorials/staking-v3-tutorial.md)
