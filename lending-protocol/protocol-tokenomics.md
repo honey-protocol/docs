@@ -1,8 +1,8 @@
 ---
-description: Calculating interest rates and risk
+description: Interest rate models in use for EVM protocol
 ---
 
-# Protocol maths
+# Protocol math (Ethereum)
 
 ## Utilisation
 

@@ -14,7 +14,7 @@
 * [Liquidations](lending-protocol/liquidations.md)
 * [Market admins](lending-protocol/market-admins.md)
 * [Interest Rates](lending-protocol/interest-rates/README.md)
-  * [Protocol maths](lending-protocol/protocol-tokenomics.md)
+  * [Protocol math (Ethereum)](lending-protocol/protocol-tokenomics.md)
 * [Risk](lending-protocol/risk/README.md)
   * [Security](lending-protocol/risk/security.md)
   * [Risk Methodology](about-us/risk-methodology.md)
@@ -33,14 +33,10 @@
 * [HONEY](tokenomics/honey.md)
 * [veHONEY](tokenomics/vehoney.md)
 * [pHONEY](tokenomics/phoney.md)
-
-## Products
-
-* [Genesis NFTs](products/genesis-nfts/README.md)
-  * [Liquidity Mining](products/genesis-nfts/liquidity-mining.md)
-  * [Alpha program](products/genesis-nfts/alpha-program.md)
-  * [NFT vs Token benefits](products/genesis-nfts/genesis-nfts.md)
-* [Farms](https://blog.honey.finance/an-in-depth-guide-to-staking-as-a-service-512a45ae307c)
+* [Genesis NFTs](tokenomics/genesis-nfts/README.md)
+  * [Liquidity Mining](tokenomics/genesis-nfts/liquidity-mining.md)
+  * [Alpha program](tokenomics/genesis-nfts/alpha-program.md)
+  * [NFT vs Token benefits](tokenomics/genesis-nfts/genesis-nfts.md)
 
 ## About Us
 
