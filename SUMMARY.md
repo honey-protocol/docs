@@ -7,6 +7,7 @@
 
 ## Lending protocol
 
+* [Fees](lending-protocol/fees.md)
 * [Overview](lending-protocol/nfts.md)
 * [Borrowing](lending-protocol/borrowing.md)
 * [Lending](lending-protocol/lending.md)
