@@ -7,8 +7,8 @@
 
 ## Lending protocol
 
-* [Fees](lending-protocol/fees.md)
 * [Overview](lending-protocol/nfts.md)
+* [Fees](lending-protocol/fees.md)
 * [Borrowing](lending-protocol/borrowing.md)
 * [Lending](lending-protocol/lending.md)
 * [Liquidations](lending-protocol/liquidations.md)
@@ -63,6 +63,7 @@
 
 ## LINKS
 
+* [Early Beta](https://beta.honey.finance)
 * [Code](https://github.com/honey-labs)
 * [SDK](https://sdk.honey.finance/)
 * [Resources](https://www.notion.so/honey-resources/Honey-Resources-3856fb63153944e5bd1f9792830b2328)
