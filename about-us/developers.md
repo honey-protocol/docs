@@ -8,26 +8,29 @@ description: Core team from Honey Labs
 
 > tompandolfi.eth or 🧙🏻‍♂️.sol
 
-Tom Pandolfi founded Honey Labs to turn NFTs into powerful financial assets. With a background in Economics and Business, he oversees growth of the project, product development and strategy.
+Tom Pandolfi founded Honey Labs to turn NFTs into powerful financial assets. With a background in Economics and Business, he oversees growth of the project, product development, strategy and design.
 
 Tom has worked as a project developer since 2019 on Ethereum and Polygon.
 
-Most of his content can be found [here](https://tomjpandolfi.medium.com/) on Medium
+Most of his long form content can be found [here](https://tomjpandolfi.medium.com/) on Medium.
 
-\- [@tompandolfi](http://t.me/tompandolfi) [Twitter](https://twitter.com/tomjpandolfi) [LinkedIn](https://www.linkedin.com/in/tom-j-pandolfi-077b7515a/?miniProfileUrn=urn%3Ali%3Afs\_miniProfile%3AACoAACZCfRsBr\_YmxhmHUQ78xWNKuNRWuSIwrC8)
+\- [@tompandolfi](http://t.me/tompandolfi) [Twitter](https://twitter.com/tomjpandolfi)
 
 
 
-## 🥷🏻 Perkins - Head of Security
+## ⛵️ theSailor - CFO
 
-Perkins, an advocate for Decentralized Finance and security has spent the past 3 years working alongside developers and investors alike to bring the power of DeFi to the average man.
+As our CFO, Sailor handles of all of the finances and behind the scenes of the Honey DAO. This includes accounting, financial projections, mergers and acquisitions, and runway management.&#x20;
 
-He has recently started Perkins Solutions LLC (FL) to help DAOs, decentralised companies, and protocols maintain security for their teams and projects.
+He is a very large advocate for financial transparency and is pushing this core value throughout Honey Finance.&#x20;
 
-Reach out to Perkins at:
+Feel free to contact him at any time, his DMs are always open:
 
-* E-Mail: [perkinssolutionsllc@gmail.com](mailto:perkinssolutionsllc@gmail.com)
-* E-Mail: [perkins@honeylabs.io](mailto:perkins@honeylabs.io)
+* E-Mail: thesailor@honeylabs.io
+* Twitter: [@theSailor\_\_](https://twitter.com/theSailor\_\_)
+* Medium: [https://medium.com/@theSailor\_\_](https://medium.com/@theSailor\_\_)
+
+
 
 ## 👨‍💻 0xPedr0 / Business Development
 
@@ -39,13 +42,7 @@ His role is to create synergies with other DeFi protocols and NFT projects, embe
 
 * Twitter: [@0xpedr0](https://twitter.com/0xPedr0)
 
-## 🦸🏻‍♂️ 0xDarius / Developer Operations
 
-0xDarius is co-founder and oversees development operations. Spearheading product development to push out the highest quality products and services.&#x20;
-
-He has been a DeFi and blockchain enthusiast for a year and half now.
-
-[Telegram](https://t.me/dariusfdi) - [Twitter](https://twitter.com/dariusfoodeei)
 
 ## 🧞‍♂️ Bagchaserjoe / Head of Research
 
@@ -54,6 +51,19 @@ He has been a DeFi and blockchain enthusiast for a year and half now.
 Bagchaserjoe is a data analyst, product designer, and self-proclaimed quant for Honey.
 
 He is in charge of crunching numbers, as well as modelling the implementation of certain strategies and features.
+
+
+
+## 🥷🏻 Perkins - Head of Security
+
+Perkins, an advocate for Decentralized Finance and security has spent the past 3 years working alongside developers and investors alike to bring the power of DeFi to the average man.
+
+He has recently started Perkins Solutions LLC (FL) to help DAOs, decentralized companies, and protocols maintain security for their teams and projects.
+
+Reach out to Perkins at:
+
+* E-Mail: [perkinssolutionsllc@gmail.com](mailto:perkinssolutionsllc@gmail.com)
+* E-Mail: [perkins@honeylabs.io](mailto:perkins@honeylabs.io)
 
 ## Core Contributors 🧠
 
