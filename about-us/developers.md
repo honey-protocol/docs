@@ -1,14 +1,14 @@
 ---
-description: Core team from Honey Labs
+description: Doxxed and anon contributors to Honey Protocol
 ---
 
 # Developers
 
-## 🧙🏻‍♂ Tom J. Pandolfi / Founder 🇫🇷
+## 🧙🏻‍♂ Tom J. Pandolfi / Founder - Operations🇫🇷
 
 > tompandolfi.eth or 🧙🏻‍♂️.sol
 
-Tom Pandolfi founded Honey Labs to turn NFTs into powerful financial assets. With a background in Economics and Business, he oversees growth of the project, product development, strategy and design.
+Tom Pandolfi founded Honey Labs to leverage NFTs as powerful assets in DeFi. With a background in Economics and Business, he oversees growth of the project, product development, strategy and design.
 
 Tom has worked as a project developer since 2019 on Ethereum and Polygon.
 
