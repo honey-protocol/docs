@@ -4,28 +4,50 @@ description: Borrow and lend with your NFTs
 
 # 👋 Welcome to Honey
 
+## What is Honey ?
+
+Honey Finance is a lending and borrowing protocol for long tail assets, allowing instant liquidity for derivatives, NFTs, and real world assets.
+
 {% hint style="info" %}
-**Latest news**
+**Learn more**
 
-🏦 NFT collateralisation is being tested in our 🧪[alpha program](https://discord.gg/T7RQ8hMamB)
-
-📚 Honey resources is [live](https://www.notion.so/honey-resources/Honey-Resources-3856fb63153944e5bd1f9792830b2328) ! All of the information you need about Honey.
-
-📑 Code has been open sourced, feel free to [contribute](https://github.com/honey-labs)
+* [Honey protocol](lending-protocol/nfts.md)
+* [Honey P2P](honey-p2p/overview.md)
+* [$HONEY tokenomics](tokenomics/honey.md)
 {% endhint %}
-
-Honey Finance introduces the most scalable approach to NFT lending, allowing lenders to earn yield on stable coins while borrowers receive instant liquidity on NFTs.&#x20;
-
-
-
-**Our mission is to enable NFT holders to easily access DeFi opportunities.**
 
 {% embed url="https://www.loom.com/share/c8660f926f014cdd80a21ec5c5392fb5" %}
 
-NFTs today have a few critical flaws which bottleneck their growth. NFTs are illiquid, lead to unrealised gains, and **present their holders with a massive opportunity cost**, relative to what the same capital would yield if passively invested in DeFi.
+{% tabs %}
+{% tab title="I want liquidity for my NFTs" %}
+Borrowing on Honey Finance provides instant liquidity for NFTs.
 
-Our protocol offers liquidity solutions for NFTs, and solves the problem of opportunity cost, by allowing users to set their non-fungible assets as collateral on peer-to-contract loans.
+* [Borrowing](lending-protocol/borrowing.md)
+* [FAQ](faq/faq/lending-and-borrowing-faq.md)
+* [Try now](https://beta.honey.finance)
+{% endtab %}
 
-Honey can also be used by projects to easily set up token farms. These community farms accrue fees which provide revenue to our DAO, allowing us to reduce protocol fees on lending and borrowing.
+{% tab title="I want to earn higher yields" %}
+Lenders can obtain high interest rates by having exposure to NFTs, due to illiquidity.
 
-### [Start earning APRs with your NFTs](https://app.honey.finance)
+* [Lending](lending-protocol/lending.md)
+* [Risks](lending-protocol/risk/)
+* [Try now](https://beta.honey.finance)
+{% endtab %}
+
+{% tab title="I want to earn fees" %}
+Eearn fees by creating your own market on Honey. Allow lenders and borrowers to interact in your market, and earn fees on the volume they generate.
+
+* [Market admins](lending-protocol/market-admins/)
+* [How to create a market](tutorials/tutorials/create-a-market.md)
+{% endtab %}
+{% endtabs %}
+
+## Where to start ?
+
+The Honey Finance protocol is decentralised, thus its programs can be accessed by multiple frontends (websites) which allow users to interact with its programs.
+
+| Host            | URL                                                                                                            |
+| --------------- | -------------------------------------------------------------------------------------------------------------- |
+| Honey Labs inc. | [https://beta.honey.finance/](https://beta.honey.finance/)                                                     |
+| Local host      | [https://github.com/honey-labs/honey-frontend-redesign](https://github.com/honey-labs/honey-frontend-redesign) |

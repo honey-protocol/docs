@@ -34,8 +34,8 @@ Supply USDC to lending markets and receive yield from accrued interest or liquid
 
 Create lending markets on the platform and set an admin fee. Liquidations and interest repayments will include this fee, generating revenue for the market admin. Admins can be DAOs, projects, or individuals.
 
-{% content-ref url="market-admins.md" %}
-[market-admins.md](market-admins.md)
+{% content-ref url="market-admins/" %}
+[market-admins](market-admins/)
 {% endcontent-ref %}
 
 

@@ -30,11 +30,7 @@ In a market with a 5% admin fee, if borrower's pay 100$ worth of interest to len
 These fees are a commission on the debt issued by the protocol. Honey takes 1.5% of the debt  upon borrowing.
 
 {% hint style="info" %}
-If a borrower withdraws 100$ worth of debt, they will withdraw 101.5$ from the lending pool. Their debt upon borrowing will be set at 101.5$, and they will receive the requested 100$.
-{% endhint %}
-
-{% hint style="warning" %}
-Borrow fees are currently set to 0% on our Solana NFT lending beta and replaced by a minimum interest of 150 bps on debt.
+If a borrower withdraws 100$ worth of debt, their debt will be 101.5$. The additional 1.5$ is protocol revenue which can be claimed by the DAO from the lending pool.
 {% endhint %}
 
 ## Revenue

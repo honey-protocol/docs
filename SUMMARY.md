@@ -8,11 +8,12 @@
 ## Lending protocol
 
 * [Overview](lending-protocol/nfts.md)
-* [Fees](lending-protocol/fees.md)
 * [Borrowing](lending-protocol/borrowing.md)
 * [Lending](lending-protocol/lending.md)
+* [Fees](lending-protocol/fees.md)
 * [Liquidations](lending-protocol/liquidations.md)
-* [Market admins](lending-protocol/market-admins.md)
+* [Market admins](lending-protocol/market-admins/README.md)
+  * [Market creation](lending-protocol/market-admins/market-creation.md)
 * [Interest Rates](lending-protocol/interest-rates/README.md)
   * [Protocol math (Solana)](lending-protocol/interest-rates/protocol-math-solana/README.md)
     * [Low risk model](lending-protocol/interest-rates/protocol-math-solana/low-risk-model.md)
@@ -52,6 +53,7 @@
 ## Tutorials
 
 * [Tutorials](tutorials/tutorials/README.md)
+  * [Create a market](tutorials/tutorials/create-a-market.md)
   * [Create a loan](tutorials/tutorials/lending-and-borrowing-tutorial.md)
   * [Repay a loan](tutorials/tutorials/repay-a-loan.md)
   * [pHONEY conversion tutorial](tutorials/tutorials/phoney-conversion-tutorial.md)
