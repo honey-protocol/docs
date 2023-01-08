@@ -32,7 +32,7 @@ Select an NFT from that collection, and click the `DEPOSIT NFT` button to deposi
 At the moment, markets are limited to 1 loan per wallet, to protect markets at launch. This means only 1 of your NFTs at a time can be used as collateral in a market.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
 \
 Depositing the NFT creates a loan position, with a debt of 0 SOL. No interest is accruing until you borrow SOL.

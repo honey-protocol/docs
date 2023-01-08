@@ -40,7 +40,7 @@ Select the `REPAY` tab at the top, to access the repay form.
 
 You can repay part of your debt in order to bring down your risk level and avoid liquidation.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (3).png>)
 
 On the repay form, the slider adds SOL to your position. As you slide it, you will notice the values on the right side change, giving you a preview of what your loan will look like if you confirm the repayment.\
 

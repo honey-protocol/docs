@@ -44,7 +44,7 @@ We recommend going to Magic Eden and finding the page associated to this particu
 
 Once on that page, view the _details_ page for that NFT. On the NFT's page, you can scroll down to _details_ and find a field called **Mint address**. You can then pick whichever explorer you feel most comfortable with, this example uses Solscan:
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (2).png>)
 
 On the explorer page for the NFT, you'll find a field called **Creators**. This will show the distribution of royalties, with the check mark indicating that a creator address is a verified creator address.
 
@@ -71,7 +71,87 @@ Honey Labs recommends using two separate oracles per market, a price oracle, and
 {% endhint %}
 
 {% tabs %}
-{% tab title="Collection has an oracle" %}
+{% tab title="Collection has no oracle" %}
+### Step 1 - Switchboard
+
+Navigate to [app.switchboard.xyz](https://app.switchboard.xyz) and select the **NFT Floor Price (SOL)** card in the popular collections list.\
+
+
+### Step 2 - Pick template
+
+Select any pre-made option. For this example, we will use the **Solana Monkey Business Floor Price** template which you can find [here](https://app.switchboard.xyz/template/aafff881-ef69-4867-bbda-cdf1ee83dc31/feed/948e6922f14acff92999605999667831c7b11ebc1472de4a9e7c103ac5744e07).
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>List of templates</p></figcaption></figure>
+
+Select the template by clicking the `Add to Cart` button followed by the `Configure feed` button in your cart.\
+
+
+### Step 3 - Configure your template
+
+Start by naming your new price feed. Get this out of the way right now so you don't forget to do it later:
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Edit feed name</p></figcaption></figure>
+
+For this example, we'll create a price feed for the Anon Club NFT collection, and will thus name our new price feed **Anon Club Floor Price.**
+
+We now need to edit our feed to track Anon Club instead of SMBs.
+
+Click on the three dots menu item, and this time navigate to the`View Details` button. You'll notice that this template is fetching the SMB floor from 3 different sources (SMB marketplace, SolanaFloor, and Magic Eden).
+
+{% hint style="info" %}
+**Select the correct sources for your price feed.**\
+**-** Make sure to source your floor price from marketplaces with high enough volume. Low volume marketplaces can have their floor prices be more easily manipulated.\
+\- Sourcing from aggregators is a good idea.
+{% endhint %}
+
+### Step 4 - Edit price feeds
+
+Once you are on the `View Details` modal of your price oracle, you should see an option to `Edit Feed` at the bottom right corner.
+
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Edit Feed</p></figcaption></figure>
+
+This will allow us to input the sources which will inform the oracle about the collection's floor price.
+
+In our case, most of the volume for the Anon Club collection goes through Magic Eden, so we will get rid of the SMB marketplace price feed and the SolanaFloor price feed.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Click the X top right corner</p></figcaption></figure>
+
+We're now left with our Magic Eden price feed. If you click `Test` you'll see the floor price of SMB in SOL. To change this, swap the names of the Magic Eden collection:\
+\
+https://api-mainnet.magiceden.dev/v2/collections/solana\_monkey\_business/stats
+
+Becomes:
+
+https://api-mainnet.magiceden.dev/v2/collections/\<YOUR\_COLLECTION\_NAME>/stats\
+\
+Check Magic Eden's link for your NFT collection, and use the same suffix. In our Anon Club example, Magic Eden uses the link: https://magiceden.io/marketplace/888\_anon\_club so we replace \<YOUR\_COLLECTION\_NAME> with `888_anon_club`.\
+\
+Now if we click `Test`, we should get the floor price of Anon Club.
+
+{% hint style="info" %}
+By picking the SMB template, we already have a 3rd step in our ME price feed which divides the received value by the needed decimals using `DivideTask` and `Scalar`.&#x20;
+{% endhint %}
+
+###
+
+### Step 5 - Checkout
+
+Once you are done configuring your price feeds, add it to your cart, and proceed to checkout.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Before you fund the oracle, you will need to tell Switchboard how long you want to fund it for, and how frequently you want it to update. The more often the oracle updates, the more expensive it will be.
+
+Lowering values such as Batch size will lower the cost of the oracle, as well as it's security.
+
+You can decide how frequently you want your oracle to update it's price. This is up to you and should be a function of your collection's volatility, but we generally recommend keeping it under 1 hour.
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Expected volatility = update more frequently</p></figcaption></figure>
+
+You're all set ! You can now proceed checkout and fund the oracle with your phantom wallet.
+{% endtab %}
+
+{% tab title="Collection already has an oracle" %}
 Even if your collection has an oracle on Switchboard, it's strongly recommended that you create your own.
 
 Two oracles should exist for a market, a price oracle, tracking a floor price API for a given collection, and a TWAP oracle, which averages the given price over a set period of time.
@@ -80,13 +160,26 @@ Two oracles should exist for a market, a price oracle, tracking a floor price AP
 Technically, any integer value received from the oracle will work for your market. Oracles can provide a constant number, or be manually set (no API tracking). If you have a use for this, then you are free to do so.
 {% endhint %}
 
-If you're confident with the oracle already present on Switchboard, you can provide the&#x20;
-{% endtab %}
-
-{% tab title="Collection has no oracle" %}
-todo
 
 
+### Step 1 - Switchboard
+
+Navigate to [app.switchboard.xyz](https://app.switchboard.xyz) and select the **NFT Floor Price (SOL)** card in the popular collections list.\
+
+
+### Step 2 - Pick template
+
+Select the option that corresponds to the floor price of your NFT collection.
 {% endtab %}
 {% endtabs %}
+
+
+
+
+
+
+
+
+
+
 
