@@ -18,8 +18,7 @@ __\
 __If the numerator goes up (more debt), or if the denominator goes down (less collateral) then the LTV will increase, until it hits the liquidation threshold.
 {% endhint %}
 
-The higher the LTV, the more risky a loan becomes. Each market has a maximum LTV, called the **liquidation threshold**, which determines when a position is too high risk and must be liquidated.\
-
+The higher the LTV, the more risky a loan becomes. Each market has a maximum LTV, called the **liquidation threshold**, which determines when a position is too high risk and must be liquidated.
 
 <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -57,5 +56,3 @@ Unlike other NFT lending protocols, Honey does not wait for NFTs to be liquidate
 Instead, Honey prepares liquidations on collateral as soon as it's deposited into our markets, allowing liquidators to bid on potentially discounted NFTs, even if they positions are healthy. As the positions approach their liquidation thresholds, bidders will need to place the highest bid in order to receive the NFT.
 
 The moment that an NFT crosses its liquidation threshold, it is immediately sold to the highest bidder. If there are no bids big enough to cover the debt, then Honey aggregates different NFT AMMs to find instant liquidity for the collateral. In all cases, collateral is sold instantly, to not allow bad debt to accrue in the protocol.
-
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>

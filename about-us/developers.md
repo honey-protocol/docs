@@ -18,7 +18,7 @@ Most of his long form content can be found [here](https://tomjpandolfi.medium.co
 
 
 
-## ⛵️ theSailor - CFO
+## ⛵️ theSailor - COO
 
 As our CFO, Sailor handles of all of the finances and behind the scenes of the Honey DAO. This includes accounting, financial projections, mergers and acquisitions, and runway management.&#x20;
 

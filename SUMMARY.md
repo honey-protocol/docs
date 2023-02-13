@@ -37,7 +37,7 @@
 
 * [HONEY](tokenomics/honey.md)
 * [veHONEY](tokenomics/vehoney.md)
-* [pHONEY](tokenomics/phoney.md)
+* [pHONEY (old)](tokenomics/phoney.md)
 * [Genesis NFTs](tokenomics/genesis-nfts/README.md)
   * [Liquidity Mining](tokenomics/genesis-nfts/liquidity-mining.md)
   * [Alpha program](tokenomics/genesis-nfts/alpha-program.md)

@@ -4,7 +4,7 @@ description: Deposit NFT collateral to get a loan
 
 # Borrowing
 
-Borrowing on Honey is overcollateralised, meaning that borrowers must deposit more collateral than the amount they borrow.
+Borrowing on Honey is always overcollateralised, meaning that borrowers must deposit collateral that is worth more than the amount they borrow.
 
 Loans do not have fixed durations, meaning that interest accrues over time. As long as borrowers pay down their interest and the value of the collateral does not go down, positions can stay open indefinitely.
 
@@ -12,15 +12,17 @@ Loans do not have fixed durations, meaning that interest accrues over time. As l
 
 Interest rates (also called Borrow APRs) are variable, which means they accrue over time at different speeds. If a variable interest rate is set to 365% Borrow APR, it means each day interest will accrue by 1%.
 
+The variability of the rates are determined by supply and demand. This means the more surplus of liquidity there is in a market (more money being supplied than what is needed) the more rates will go down (and vice versa).
+
 {% hint style="info" %}
-Notice that Borrow APR does not compound, while supply APR does. That is why supply  APR is measured using APY. Click [here](../learn/defi-lending.md#apr-vs-apy) to learn more about APR vs APY.&#x20;
+Notice that Borrow APR does not compound, while supply APR does. That is why supply APR is measured using APY. Click [here](../learn/defi-lending.md#apr-vs-apy) to learn more about APR vs APY.&#x20;
 {% endhint %}
 
 ## Loan to value
 
 Loan to value (LTV) is an indicator of how much can be borrowed from a collateral's value. A 50% LTV means that half of a collateral's dollar value (floor price) is given out to the borrower as a loan.
 
-Maximum LTV is determined by market admins, but users cannot currently select values higher than 40%. Positions with higher LTVs have a higher risk of being liquidated for the as a small decrease in the value of the collateral could mean a liquidation.
+Maximum LTV is determined by market admins, but users cannot currently select values higher than 50%. Positions with higher LTVs have a higher risk of being liquidated as a small decrease in the value of the collateral could mean liquidation.
 
 ## Liquidation threshold
 

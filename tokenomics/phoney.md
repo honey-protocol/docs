@@ -2,7 +2,11 @@
 description: Pre-IDO HONEY
 ---
 
-# pHONEY
+# pHONEY (old)
+
+{% hint style="warning" %}
+pHONEY is a deprecated asset no longer supported by Honey DAO
+{% endhint %}
 
 pre-IDO HONEY, also referred to as pHONEY was rewarded to early users in the protocol. $pHONEY is not tradeable on any exchange and is not officially officially backed by any liquidity.\
 \
