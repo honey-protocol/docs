@@ -1,5 +1,9 @@
 # Farm addresses
 
+{% hint style="info" %}
+You can access these farms through the gem-farm UI [here](https://gem-farm-honey.vercel.app).
+{% endhint %}
+
 ### Active farms
 
 | Collection    | Farm address                                   |
