@@ -56,7 +56,7 @@ This will bring your risk level back to 0%, allowing you to withdraw the NFT. Cl
 \
 Once the transaction has gone through, you will see a `CLAIM NFT` button. Click it to receive the NFT you originally deposited back into your wallet.\
 \
-![](<../../.gitbook/assets/image (1) (3).png>)
+![](<../../.gitbook/assets/image (1) (3) (2).png>)
 {% endtab %}
 {% endtabs %}
 

@@ -22,8 +22,8 @@ Borrow money by depositing NFTs as collateral. Interest accrues on open position
 
 When borrowing, users are allowed to withdraw based on their allowance. The allowance can be defined as, how much value are you able to receive as a percentage of the floor price.
 
-{% content-ref url="borrowing.md" %}
-[borrowing.md](borrowing.md)
+{% content-ref url="borrowing/" %}
+[borrowing](borrowing/)
 {% endcontent-ref %}
 
 ## Lenders

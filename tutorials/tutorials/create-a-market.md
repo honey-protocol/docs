@@ -81,7 +81,7 @@ Navigate to [app.switchboard.xyz](https://app.switchboard.xyz) and select the **
 
 Select any pre-made option. For this example, we will use the **Solana Monkey Business Floor Price** template which you can find [here](https://app.switchboard.xyz/template/aafff881-ef69-4867-bbda-cdf1ee83dc31/feed/948e6922f14acff92999605999667831c7b11ebc1472de4a9e7c103ac5744e07).
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>List of templates</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (3).png" alt=""><figcaption><p>List of templates</p></figcaption></figure>
 
 Select the template by clicking the `Add to Cart` button followed by the `Configure feed` button in your cart.\
 
@@ -114,7 +114,7 @@ This will allow us to input the sources which will inform the oracle about the c
 
 In our case, most of the volume for the Anon Club collection goes through Magic Eden, so we will get rid of the SMB marketplace price feed and the SolanaFloor price feed.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Click the X top right corner</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Click the X top right corner</p></figcaption></figure>
 
 We're now left with our Magic Eden price feed. If you click `Test` you'll see the floor price of SMB in SOL. To change this, swap the names of the Magic Eden collection:\
 \
@@ -138,7 +138,7 @@ By picking the SMB template, we already have a 3rd step in our ME price feed whi
 
 Once you are done configuring your price feeds, add it to your cart, and proceed to checkout.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 Before you fund the oracle, you will need to tell Switchboard how long you want to fund it for, and how frequently you want it to update. The more often the oracle updates, the more expensive it will be.
 

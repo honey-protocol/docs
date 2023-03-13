@@ -15,7 +15,7 @@ Interest rates (also called Borrow APRs) are variable, which means they accrue o
 The variability of the rates are determined by supply and demand. This means the more surplus of liquidity there is in a market (more money being supplied than what is needed) the more rates will go down (and vice versa).
 
 {% hint style="info" %}
-Notice that Borrow APR does not compound, while supply APR does. That is why supply APR is measured using APY. Click [here](../learn/defi-lending.md#apr-vs-apy) to learn more about APR vs APY.&#x20;
+Notice that Borrow APR does not compound, while supply APR does. That is why supply APR is measured using APY. Click [here](../../learn/defi-lending.md#apr-vs-apy) to learn more about APR vs APY.&#x20;
 {% endhint %}
 
 ## Loan to value

@@ -22,7 +22,7 @@ Honey Finance is a lending and borrowing protocol for long tail assets, allowing
 {% tab title="I want liquidity for my NFTs" %}
 Borrowing on Honey Finance provides instant liquidity for NFTs.
 
-* [Borrowing](lending-protocol/borrowing.md)
+* [Borrowing](lending-protocol/borrowing/)
 * [FAQ](faq/faq/lending-and-borrowing-faq.md)
 * [Try now](https://beta.honey.finance)
 {% endtab %}

@@ -8,7 +8,8 @@
 ## Lending protocol
 
 * [Overview](lending-protocol/nfts.md)
-* [Borrowing](lending-protocol/borrowing.md)
+* [Borrowing](lending-protocol/borrowing/README.md)
+  * [Bulk loan](lending-protocol/borrowing/bulk-loan.md)
 * [Lending](lending-protocol/lending.md)
 * [Fees](lending-protocol/fees.md)
 * [Liquidations](lending-protocol/liquidations.md)
@@ -75,6 +76,7 @@
 * [Resources](https://www.notion.so/honey-resources/Honey-Resources-3856fb63153944e5bd1f9792830b2328)
 * [Discord](https://discord.gg/KQc2SYgTzJ)
 * [Website](https://honey.finance)
+* [Farm addresses](links/farm-addresses.md)
 
 ## Legal
 
