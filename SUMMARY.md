@@ -59,6 +59,7 @@
   * [Repay a loan](tutorials/tutorials/repay-a-loan.md)
   * [pHONEY conversion tutorial](tutorials/tutorials/phoney-conversion-tutorial.md)
   * [pHONEY locking tutorial](tutorials/tutorials/phoney-locking-tutorial.md)
+* [Support](tutorials/support.md)
 
 ## FAQ
 
