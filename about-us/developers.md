@@ -20,9 +20,9 @@ Most of his long form content can be found [here](https://tomjpandolfi.medium.co
 
 ## ⛵️ theSailor - COO
 
-As our CFO, Sailor handles of all of the finances and behind the scenes of the Honey DAO. This includes accounting, financial projections, mergers and acquisitions, and runway management.&#x20;
+As our COO, Sailor handles of all of the finances and Operations of the Honey DAO. This includes accounting, financial projections, mergers and acquisitions, runway management, and communications.
 
-He is a very large advocate for financial transparency and is pushing this core value throughout Honey Finance.&#x20;
+He is a very large advocate for financial transparency and is pushing this core value throughout Honey Finance.
 
 Feel free to contact him at any time, his DMs are always open:
 
@@ -53,17 +53,6 @@ Bagchaserjoe is a data analyst, product designer, and self-proclaimed quant for 
 He is in charge of crunching numbers, as well as modelling the implementation of certain strategies and features.
 
 
-
-## 🥷🏻 Perkins - Head of Security
-
-Perkins, an advocate for Decentralized Finance and security has spent the past 3 years working alongside developers and investors alike to bring the power of DeFi to the average man.
-
-He has recently started Perkins Solutions LLC (FL) to help DAOs, decentralized companies, and protocols maintain security for their teams and projects.
-
-Reach out to Perkins at:
-
-* E-Mail: [perkinssolutionsllc@gmail.com](mailto:perkinssolutionsllc@gmail.com)
-* E-Mail: [perkins@honeylabs.io](mailto:perkins@honeylabs.io)
 
 ## Core Contributors 🧠
 
