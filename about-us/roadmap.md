@@ -1,7 +1,5 @@
 # Roadmap
 
-_Last updated: Sep 20th 2022_
-
 {% hint style="info" %}
 **Ongoing**: Part of the current dev cycle
 
@@ -14,17 +12,21 @@ _Last updated: Sep 20th 2022_
 
 ## Ongoing
 
-
-
-* [x] UI/UX redesign
-  * [x] Brandkit
-  * [x] Landing page
-  * [ ] Server-Side Rendering (NEXT.JS)
-  * [ ] Skeletons FE render
-  *
+* [ ] Honey in-game asset support
+* [ ] Integrate speed improvements into SDK
+* [ ] Adding testing suite for SDK
+* [ ] API 2.0
+  * [x] New liquidation network
+  * [ ] Subgraph of user positions
+  * [ ] New NFT fetching logic
 
 ## Past dev cycle
 
+* UI/UX redesign
+  * [x] Brandkit
+  * [x] Landing page
+  * [x] Server-Side Rendering (NEXT.JS)
+  * [x] Skeletons FE render
 * Project Leviathan
   * [x] Partnerships
   * [x] Docs
@@ -64,12 +66,14 @@ _Last updated: Sep 20th 2022_
 * [x] Liquidation overhaul
 * [x] Staking aggregator for NFTs ([open source](https://github.com/honey-labs/honey-frontend))
 * [x] Updated veGovernance
+* [x] Creation of proprietary oracle
 * [x] NFT mint
 
 ## Upcoming
 
 * [ ] Ethereum alpha launch
-* [ ] Creation of proprietary oracle
+* [ ] Launch on BNB chain
+* [ ] Metaverse integrations
 
 ## Exploring
 
