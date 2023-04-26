@@ -27,7 +27,11 @@ In a market with a 5% admin fee, if borrower's pay 100$ worth of interest to len
 
 ## Borrow fees
 
-These fees are a commission on the debt issued by the protocol. Honey takes 1.5% of the debt  upon borrowing.
+These fees are a commission on the debt issued by the protocol. Honey takes 1.5% of the debt upon borrowing on Solana.
+
+{% hint style="warning" %}
+Borrow fees on Honey's EVM beta (Polygon, Arbitrum, etc.) are currently set at 2%.
+{% endhint %}
 
 {% hint style="info" %}
 If a borrower withdraws 100$ worth of debt, their debt will be 101.5$. The additional 1.5$ is protocol revenue which can be claimed by the DAO from the lending pool.
