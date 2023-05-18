@@ -14,8 +14,8 @@ There are two reasons why a liquidation can occur. Too much interest has accrued
 Liquidations are measured using a simple fraction called the Loan-To-Value (LTV):\
 \
 _Debt / Collateral value = LTV_\
-__\
-__If the numerator goes up (more debt), or if the denominator goes down (less collateral) then the LTV will increase, until it hits the liquidation threshold.
+\
+If the numerator goes up (more debt), or if the denominator goes down (less collateral) then the LTV will increase, until it hits the liquidation threshold.
 {% endhint %}
 
 The higher the LTV, the more risky a loan becomes. Each market has a maximum LTV, called the **liquidation threshold**, which determines when a position is too high risk and must be liquidated.

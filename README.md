@@ -50,4 +50,5 @@ The Honey Finance protocol is decentralised, thus its programs can be accessed b
 | Host            | URL                                                                                                            |
 | --------------- | -------------------------------------------------------------------------------------------------------------- |
 | Honey Labs inc. | [https://beta.honey.finance/](https://beta.honey.finance/)                                                     |
+| Community fork  | [https://honey.community](https://honey.community)                                                             |
 | Local host      | [https://github.com/honey-labs/honey-frontend-redesign](https://github.com/honey-labs/honey-frontend-redesign) |

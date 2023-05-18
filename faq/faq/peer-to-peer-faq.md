@@ -38,5 +38,5 @@ Honey P2P is permissionless, which means anybody and everybody can use it. This 
 
 Honey P2P supports USDC. While it could support any SPL token (wSOL, SRM, SDHW, etc.) the protocol limits it to only one token to not segregate supply and demand. USDC is favoured over SOL to allow more complex loans and financial derivatives to be built in Honey P2P, which could not be denominated in volatile tokens.
 
-****
+
 

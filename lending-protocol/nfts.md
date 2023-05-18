@@ -4,13 +4,13 @@ description: Peer-To-Contract NFT loans
 
 # Overview
 
-Honey Finance hosts plenty of lending markets.
+Honey Finance hosts plenty of lending pools.
 
-Each collateral (usually an NFT collection) has it's own lending market.
+Each collateral (usually an NFT collection) has it's own lending pools.
 
-Lending markets match borrowers and lenders of a same collateral. Lenders supply liquidity (USDC or SOL) to an NFT collection's associated lending market. Borrowers can borrow this money by depositing their NFTs as collateral.
+Lending pools match borrowers and lenders of a same collateral. Lenders supply liquidity (USDC or SOL) to an NFT collection's associated lending pool. Borrowers can borrow this money by depositing their NFTs as collateral.
 
-There are three main participants in Honey lending markets:
+There are three main participants in Honey lending pools:
 
 * **Borrowers:**&#x20;
 * **Lenders**
@@ -28,7 +28,7 @@ When borrowing, users are allowed to withdraw based on their allowance. The allo
 
 ## Lenders
 
-Supply USDC or SOL to lending markets and receive yield from accrued interest or liquidations.&#x20;
+Supply USDC or SOL to lending pools and receive yield from accrued interest or liquidations.&#x20;
 
 {% content-ref url="lending.md" %}
 [lending.md](lending.md)
@@ -36,7 +36,7 @@ Supply USDC or SOL to lending markets and receive yield from accrued interest or
 
 ## Admins
 
-Create lending markets on the platform and set an admin fee. Liquidations and interest repayments will include this fee, generating revenue for the market admin. Admins can be DAOs, projects, or individuals.
+Create lending pools on the platform and set an admin fee. Liquidations and interest repayments will include this fee, generating revenue for the pools admin. Admins can be DAOs, projects, or individuals.
 
 {% content-ref url="market-admins/" %}
 [market-admins](market-admins/)

@@ -6,7 +6,11 @@ description: Guidelines and assets for Honey protocol's branding
 
 ## Logo
 
-![Honey's full length logo + title](<../.gitbook/assets/Honey\_FullLogo\_Black\_branding (1).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/Honey_FullLogo_Black_branding (1).png" alt="Honey&#x27;s full length logo + title">
+
+</div>
 
 ## Assets
 

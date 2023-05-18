@@ -4,7 +4,7 @@
 
 Description générée automatiquement](file:///Users/tompandolfi/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip\_image001.jpg)
 
-&#x20;****&#x20;
+&#x20;
 
 **Honey Development Association**
 
@@ -30,7 +30,7 @@ By purchasing Tokens, you will be automatically bound by these Terms and Conditi
 
 **We strongly recommend that you do not purchase Tokens if you are not an expert in cryptocurrencies and blockchain technology. Even if you have knowledge of the technology, you should consult your own lawyer, accountant, and other professionals whereso required. The Seller will not be responsible in any way for any loss incurred by you resulting from the purchase of these Tokens.**
 
-&#x20;****&#x20;
+&#x20;
 
 **By purchasing Tokens, you shall be deemed to acknowledge that you do so with full consent and full knowledge of these Terms and Conditions having first obtained legal advice as to the full force and effect of these Terms and Conditions. Your participation will be deemed to be your undertaking that you satisfy this requirement and shall be deemed to be your unequivocal and express agreement to be bound by these Terms.**
 
@@ -46,7 +46,7 @@ Only after that the Token Sale has been completed and the project described in t
 
 Please visit the Website and read the Information (as defined below) for yourself. The Website and the Information provide a non-binding description of the Protocol currently being developed and the Services that will be offered by the Protocol.
 
-&#x20;****&#x20;
+&#x20;
 
 **DEFINITIONS**
 
@@ -58,7 +58,7 @@ Please visit the Website and read the Information (as defined below) for yoursel
 
 **Blockchain** – the underlying blockchain technology on which the Tokens are issued, i.e. Solana. By extension, it also refers to every blockchain technology the Seller or Buyer may use.
 
-&#x20;****&#x20;
+&#x20;
 
 **Buyer** – the purchaser of the Tokens, “Purchaser” “purchaser” “you”, “You” “your”, or “yourself”.
 
@@ -70,7 +70,7 @@ Please visit the Website and read the Information (as defined below) for yoursel
 
 **Interface** – means the current interface allowing interaction with the Protocol, [https://app.honey.finance/](https://app.honey.finance/), and any other interface which may be developed in the future by the Seller or any other person.
 
-&#x20;****&#x20;
+&#x20;
 
 **Prohibited Person** - persons from the following countries: Afghanistan, Albania, Angola, Azerbaijan, Bosnia and Herzegovina, Bahamas, Barbados, Burma, Botswana, Burkina Faso, Burundi, Cayman Islands, Cambodia, Cameroon, Donetsk, Luhansk and Crimea (Ukraine), Chad, China, Congo, Congo (Democratic Republic), Cuba, Ethiopia, Eritrea, Fiji, Palau, Ghana, Guinea, Guinea-Bissau, Haiti, Iran, Iraq, Jamaica, Jordan, Lao people Democratic Republic, Liberia, Libya, Madagascar, Malia, Mozambique, Nicaragua, Uganda, Nigeria, Korea North, Pakistan, Panama, Puerto Rico, American Samoa, Senegal, Somalia, South Sudan, Sri Lanka, Sudan, Syria, Tajikistan, Trinidad and Tobago, Turkmenistan, Uganda, United States, Uzbekistan, Vanuatu, Venezuela , Virgin Islands (United States), Yemen, Zimbabwe.
 
@@ -78,9 +78,9 @@ Please visit the Website and read the Information (as defined below) for yoursel
 
 **Protocol** – means “Honey”, the autonomous, decentralized and open source protocol, originally developed by the Seller, released to the public, which notably enables the use of the Tokens and the Services, as described in the Information, notably accessible through the Interface.
 
-&#x20;****&#x20;
+&#x20;
 
-**Seller** – Honey Development Association, a Swiss law governed association __ within the meaning of Articles 60 et seq. of the Swiss Civil Code, with registered office in Route de Gilly 30, Rolle, 1180, Vaud, and “Us”, “We” or “Ours” in these Terms and Conditions.
+**Seller** – Honey Development Association, a Swiss law governed association within the meaning of Articles 60 et seq. of the Swiss Civil Code, with registered office in Route de Gilly 30, Rolle, 1180, Vaud, and “Us”, “We” or “Ours” in these Terms and Conditions.
 
 &#x20;
 
@@ -90,7 +90,7 @@ Please visit the Website and read the Information (as defined below) for yoursel
 
 **SOL** – means the native tokens of the Solana blockchain.
 
-&#x20;****&#x20;
+&#x20;
 
 **Terms and Conditions** - the terms and conditions contained in this Agreement.
 
@@ -98,11 +98,11 @@ Please visit the Website and read the Information (as defined below) for yoursel
 
 **This Jurisdiction** - means Switzerland.
 
-&#x20;****&#x20;
+&#x20;
 
 **Tokens** – the Honey Native Fungible Tokens, built on the Solana blockchain, which are digital assets which facilitates or provides access to the Services offered by the Protocol, as described in the Information. This Tokens shall not be confused with the Honey Native Non Fungible Tokens.
 
-&#x20;****&#x20;
+&#x20;
 
 **Token Sale** - means the present Tokens sale.
 
@@ -118,7 +118,7 @@ Please visit the Website and read the Information (as defined below) for yoursel
 
 **RECITALS**
 
-&#x20;****&#x20;
+&#x20;
 
 WHEREAS, the Seller developed and is developing the Protocol.
 
@@ -138,7 +138,7 @@ NOW THEREFORE, in mutual consideration of the covenants and agreements contained
 
 **INTERPRETATION**
 
-&#x20;****&#x20;
+&#x20;
 
 Unless the context of this Agreement otherwise requires:
 
@@ -160,7 +160,7 @@ The Terms and Conditions are only in respect of the sale and purchase of the Tok
 
 **1.     SERVICES**
 
-&#x20;****&#x20;
+&#x20;
 
 **1.1.** The Buyer acknowledges and agrees that the Tokens will be used on the Protocol to incentivise liquidity in the Protocol, pay back lenders in case of bad debt, facilitate liquidations or create 0% fee lending markets, and any other use decided by the governance of the Protocol.
 
@@ -202,11 +202,11 @@ Nothing in these Terms and Conditions shall be considered to constitute a prospe
 
 Buyer declares that the Seller has not solicited it in any form whatsoever to sell Tokens.
 
-&#x20;****&#x20;
+&#x20;
 
 **3.     DEVELOPMENT**
 
-&#x20;****&#x20;
+&#x20;
 
 **3.1.** In purchasing the Tokens, the Buyer acknowledges, agrees and fully understands that the Services are still in the development stage.
 
@@ -214,11 +214,11 @@ Buyer declares that the Seller has not solicited it in any form whatsoever to se
 
 **3.2.** The Buyer acknowledges and agrees that the development of the Protocol may give rise to changes in the Services.
 
-&#x20;****&#x20;
+&#x20;
 
 **4.     OFFER AND SALE**
 
-&#x20;****&#x20;
+&#x20;
 
 **4.1.** The Seller offers for sale to the Buyer Tokens in accordance with the Terms and Conditions.
 
@@ -250,15 +250,15 @@ Buyer declares that the Seller has not solicited it in any form whatsoever to se
 
 **4.8.** The Seller may terminate the Token Sale Period earlier at any time for any reason at its sole discretion.
 
-&#x20;****&#x20;
+&#x20;
 
 **5.     OFFER PRICE**
 
-&#x20;****&#x20;
+&#x20;
 
 **5.1.** The price per Token will be determined by the ratio between the number of Tokens deposited by the Seller in the Vault for sale and the amount of USDC deposited by Buyers in the Vault at the end of the Token Sale Period.
 
-&#x20;****&#x20;
+&#x20;
 
 **5.2.** The Seller does not give any guarantee that the price will remain static and it may change from time to time.
 
@@ -294,15 +294,15 @@ Buyer declares that the Seller has not solicited it in any form whatsoever to se
 
 **6.5.** The Buyer acknowledges and agrees that upon completion of the purchase of Tokens, to the fullest extent applicable under law, no refunds and/or cancellations are permitted unless agreed in writing by the Seller.
 
-&#x20;****&#x20;
+&#x20;
 
 **6.6.** The Buyer acknowledges and agrees that he or she will accept the amount of Tokens allotted by the Seller at the end of the Token Sale Period.
 
-&#x20;****&#x20;
+&#x20;
 
 **6.7.** In the event that the purchase of Tokens is not completed or fails for merely technical reasons, the Seller agrees to return to the Buyer any amount paid, less any reasonable transaction costs, to the originating source only. This Clause applies if the transaction is not subsequently completed.
 
-&#x20;****&#x20;
+&#x20;
 
 **6.8.** The Seller reserves the right to refuse a bid for Tokens on any grounds.
 
@@ -314,7 +314,7 @@ Buyer declares that the Seller has not solicited it in any form whatsoever to se
 
 **7.     DELIVERY AND WALLET**
 
-&#x20;****&#x20;
+&#x20;
 
 **7.1.** By using its/his/her Solana blockchain address, the Buyer will be able to claim and receive the purchased Tokens by interacting with the Vault directly on the Solana Blockchain. The purchased Tokens will be automatically transferred from the Vault’s address to the Solana Blockchain address of the Buyer. The Buyer shall pay the transaction fees (such as gas fees) required for the interaction(s) with the Vault (i.e. claiming and receiving the Tokens).
 
@@ -342,7 +342,7 @@ Buyer declares that the Seller has not solicited it in any form whatsoever to se
 
 **8.              PROHIBITED PERSONS**
 
-&#x20;****&#x20;
+&#x20;
 
 **8.1.** Prohibited Persons shall be ineligible to purchase Tokens during the Token Sale\[SD1]  Period.
 
@@ -358,11 +358,11 @@ Buyer declares that the Seller has not solicited it in any form whatsoever to se
 
 **9.     ACKNOWLEDGEMENT OF RISK**
 
-&#x20;****&#x20;
+&#x20;
 
 **9.1.** You represent and warrant that You fully understand and have significant experience of cryptocurrencies, digital assets, blockchain systems and services, and You fully understand the risks associated with the trading of cryptocurrencies and digital assets as well as the mechanics related to the use of such cryptocurrencies and digital assets (including with respect to their storage and exchange).
 
-&#x20;****&#x20;
+&#x20;
 
 **9.2.** You acknowledge that trading markets are extremely volatile and shift quickly in terms of liquidity, market depth, and trading dynamics.
 
@@ -406,15 +406,15 @@ Buyer declares that the Seller has not solicited it in any form whatsoever to se
 
 **10.  REPRESENTATION, WARRANTIES AND COVENANTS**
 
-&#x20;****&#x20;
+&#x20;
 
 You hereby agree that by purchasing the Tokens, you warrant and represent the following to be true:
 
-&#x20;****&#x20;
+&#x20;
 
 **10.1.** You are not a consumer.
 
-&#x20;****&#x20;
+&#x20;
 
 **10.2.** You are not a Prohibited Person.
 
@@ -422,23 +422,23 @@ You hereby agree that by purchasing the Tokens, you warrant and represent the fo
 
 **10.3.** You are not a Politically Exposed Persons (PEP).
 
-&#x20;****&#x20;
+&#x20;
 
 **10.4.** You are legally permitted to purchase and hold the Tokens in your jurisdiction.
 
-&#x20;****&#x20;
+&#x20;
 
 **10.5.** You have not received advice from the Seller regarding purchasing the Tokens.
 
-&#x20;****&#x20;
+&#x20;
 
 **10.6.** You are of legal age to purchase and hold the Tokens and are not aware of any legal reason preventing you from so doing in your jurisdiction or in this Jurisdiction.
 
-&#x20;****&#x20;
+&#x20;
 
 **10.7.** You are of sound mind and have the requisite power and authority to understand and agree to these Terms and Conditions and to carry out and perform the obligations as set out hereunder.
 
-&#x20;****&#x20;
+&#x20;
 
 **10.8.** The funds you provide have not been derived from or related to any unlawful activity including but not limited to money laundering, terrorist financing.
 
@@ -446,11 +446,11 @@ You hereby agree that by purchasing the Tokens, you warrant and represent the fo
 
 **10.9.** You agree that you will not use the Tokens, Website, Services or Protocol for unlawful purposes, including, but not limited to, sending or storing any unlawful material or for fraudulent purposes.
 
-&#x20;****&#x20;
+&#x20;
 
 **10.10.** You will not use an account that is subject to any rights of a person other than you without appropriate authorisation.
 
-&#x20;****&#x20;
+&#x20;
 
 **10.11.** You will not impair the proper operation of the Protocol.
 
@@ -458,15 +458,15 @@ You hereby agree that by purchasing the Tokens, you warrant and represent the fo
 
 **10.12** You will keep secure and confidential your account password or any identification we provide you which allows access to any of the account or Token(s). You will only use an access point or other data account which you are authorised to use.
 
-&#x20;****&#x20;
+&#x20;
 
 **10.13.** You hereby note you are solely responsible for your own tax liability, if any, in relation to the Tokens which may adversely affect you including but not limited to withholding taxes, income tax, VAT, CGT or other applicable taxes
 
-&#x20;****&#x20;
+&#x20;
 
 **10.14.** You hereby note that you have sole responsibility for the acquisition, appreciation or depreciation of the value of the Tokens.
 
-&#x20;****&#x20;
+&#x20;
 
 **10.15.** You will hold a suitable online or offline wallet or storage mechanism to support the Tokens.
 
@@ -474,7 +474,7 @@ You hereby agree that by purchasing the Tokens, you warrant and represent the fo
 
 **11.  LIMITATION OF LIABILITY**
 
-&#x20;****&#x20;
+&#x20;
 
 **11.1.** To the maximum extent permitted by law and any regulatory provisions to which We are subject to, You acknowledge and agree that the entire risk arising out of Your participation in and purchasing of the Tokens is entirely Yours and remains with You at all times, before, during and after such risk may apply.
 
@@ -486,7 +486,7 @@ You hereby agree that by purchasing the Tokens, you warrant and represent the fo
 
 **10.3.** Our aggregate liability for any circumstance or event arising out of or in connection with these Terms and Conditions will be limited to, and will in no event exceed, the amount You have paid to claim and purchase the Tokens during the Token Sale. The limitations of damages set forth in this Clause is a fundamental element of the basis of the bargain between Us and You.
 
-&#x20;****&#x20;
+&#x20;
 
 **11.4.** The Seller will not be liable, under any circumstances, for any loss or damage incurred by the Buyer in respect of any breach of security in respect of his password, account number and secret codes.
 
@@ -498,7 +498,7 @@ You hereby agree that by purchasing the Tokens, you warrant and represent the fo
 
 **12.  DISCLAIMERS**
 
-&#x20;****&#x20;
+&#x20;
 
 **12.1.** If you choose to purchase Tokens, you do so entirely at your own risk.
 
@@ -510,7 +510,7 @@ You hereby agree that by purchasing the Tokens, you warrant and represent the fo
 
 **12.3.** You hereby acknowledge and agree that the Tokens and the Protocol are made available “as is” and “as available”, with no warranties of any kind whatsoever and that, without prejudice to the generality of the foregoing, we make no warranty regarding, and shall have no responsibility for, the accuracy, availability, reliability, security, fitness for purpose or performance of the same.
 
-&#x20;****&#x20;
+&#x20;
 
 **12.4.** We make no warranty that the Token Sale, including but not restricted to, any information provided via any communication will meet Your requirements or will be available or made available in an uninterrupted, secure or error-free basis.
 
@@ -544,19 +544,19 @@ You hereby agree that by purchasing the Tokens, you warrant and represent the fo
 
 &#x20;
 
-**12.12.** The **** Buyer acknowledges and agrees that **** the purchase of Tokens does not give the Buyer any rights in the form of equity or debt interest in the Seller and/or its affiliates. The Buyers rights are strictly limited to those set out under these Terms and Conditions.
+**12.12.** The Buyer acknowledges and agrees that the purchase of Tokens does not give the Buyer any rights in the form of equity or debt interest in the Seller and/or its affiliates. The Buyers rights are strictly limited to those set out under these Terms and Conditions.
 
-&#x20;****&#x20;
+&#x20;
 
-**12.13.** The **** Buyer acknowledges and agrees that in purchasing these Tokens, the Buyer is subject to and bound by these Terms and Conditions, as may be amended from time to time.
+**12.13.** The Buyer acknowledges and agrees that in purchasing these Tokens, the Buyer is subject to and bound by these Terms and Conditions, as may be amended from time to time.
 
-&#x20;****&#x20;
+&#x20;
 
-**12.14.** The **** Buyer acknowledges and agrees that **** to the fullest extent permitted under applicable law, nothing in these Terms and Conditions represents or warrants any form of performance of the purchased Tokens. They are strictly for the use described in these Terms and Conditions.
+**12.14.** The Buyer acknowledges and agrees that to the fullest extent permitted under applicable law, nothing in these Terms and Conditions represents or warrants any form of performance of the purchased Tokens. They are strictly for the use described in these Terms and Conditions.
 
-&#x20;****&#x20;
+&#x20;
 
-**12.15.** The **** Buyer acknowledges and agrees that **** the Buyer may only access the Website using authorised means. The Seller is not liable if you do not have a compatible device, computer, operating system, browser, or any other software or hardware with which the technology is not compatible.
+**12.15.** The Buyer acknowledges and agrees that the Buyer may only access the Website using authorised means. The Seller is not liable if you do not have a compatible device, computer, operating system, browser, or any other software or hardware with which the technology is not compatible.
 
 &#x20;
 
@@ -594,15 +594,15 @@ You hereby agree that by purchasing the Tokens, you warrant and represent the fo
 
 **13.3.** This Agreement constitutes the entire Agreement (this to include any other provisions referred within this Agreement) and supersedes any and all previous agreements.
 
-&#x20;****&#x20;
+&#x20;
 
 **13.4.** The Seller shall not bear any liability for any failure or delay in the performance of its obligations under this Agreement if such delay or failure to perform is due to any Force Majeure. For the purpose of this Agreement, Force Majeure shall be defined as any act, omissions, cause or circumstance beyond the reasonable control of the Seller, this to include without any limitations: acts of god, war, national emergency, protests or rebellion, civil commotion, riots or strikes and any form of industrial dispute (whether or not involving either party’s work force), earthquake, flood, drought, epidemic, fire, explosion, act of terrorism, or any other act ordered by any government, council or constituted body.
 
-&#x20;****&#x20;
+&#x20;
 
 **13.5.** Any waiver of any breach of this Agreement by the Seller, or any default, under any provision of the Agreement by the Buyer shall only be valid if agreed in writing. Any further or subsequent breach or default by the Buyer whether similar or otherwise shall in no way affect this Agreement. Similarly, any failure or delay, by either Party to this Agreement, to insist upon strict performance of any of the provisions of the Agreement shall not be construed as a waiver of any of its rights, under this Agreement.
 
-&#x20;****&#x20;
+&#x20;
 
 **13.6.** These Terms and Conditions contains all of the terms which the Parties have agreed to in relation to the purchase of Tokens and the Terms and Conditions supersede any prior written or oral content, agreement, representations or undertakings between the Parties or made by third parties. It is acknowledged by the Purchaser that they have not acted, relied on or been induced to enter into the purchase of Tokens by reason of any representations made by or on behalf of the Seller.
 
@@ -614,7 +614,7 @@ You hereby agree that by purchasing the Tokens, you warrant and represent the fo
 
 **15.  LAW AND JURISDICTION**
 
-&#x20;****&#x20;
+&#x20;
 
 **14.1.** These Terms and Conditions shall be governed and construed in accordance with the laws of Switzerland.
 

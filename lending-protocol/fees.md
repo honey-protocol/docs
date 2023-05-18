@@ -14,15 +14,15 @@ If borrower's pay 100$ worth of interest to lenders, lenders will receive 90$, w
 
 ## Admin fees
 
-Market creators can institute a fee in their markets. These admin fees also work as a commission on interest rates, and can range anywhere from 0% to 50% of the accrued interest in a market.
+Lending pool creators can institute a fee in their lending pools. These admin fees also work as a commission on interest rates, and can range anywhere from 0% to 50% of the accrued interest in a lending pool.
 
 Admin fees are deducted from the total interest paid at the same time as protocol fees.
 
 {% hint style="info" %}
-In a market with a 5% admin fee, if borrower's pay 100$ worth of interest to lenders:\
+In a lending pool with a 5% admin fee, if borrower's pay 100$ worth of interest to lenders:\
 \- lenders will receive 85$\
 \- Honey DAO will receive 10$\
-\- Market admin will receive 5$
+\- Pool admin will receive 5$
 {% endhint %}
 
 ## Borrow fees

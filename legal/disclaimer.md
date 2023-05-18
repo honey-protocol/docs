@@ -2,7 +2,7 @@
 
 ## **Honey Development Association**
 
-&#x20;****&#x20;
+&#x20;
 
 _Disclaimer_
 
