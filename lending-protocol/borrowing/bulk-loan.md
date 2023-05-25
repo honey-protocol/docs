@@ -26,7 +26,7 @@ You can keep track of how much the floor of a collection needs to fall in order 
 Unlike traditional lending, liquidating only 1 NFT collateral in a loan cannot improve the overall LTV of a position.
 {% endhint %}
 
-When your bulk loan is liquidated, the entire position is liquidated all at once.
+When your bulk loan is liquidated, the entire position is liquidated all at once, should there be enough bids to over all issued debt. Otherwise NFTs are liquidated one by one till the position regains a minimum health position.&#x20;
 
 {% hint style="info" %}
 You can add and remove collateral whenever you want, without having to repay your entire loan.
