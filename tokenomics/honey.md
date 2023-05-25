@@ -4,7 +4,7 @@ description: The native asset of the protocol
 
 # HONEY
 
-The HONEY token is the lifeblood of the Honey Finance protocol. It is used to incentivise lending, borrowing, liquidity provision, and contributions to the DAO.
+The [HONEY token](https://solscan.io/token/HonyeYAaTPgKUgQpayL914P6VAqbQZPrbkGMETZvW4iN) is the lifeblood of the Honey Finance protocol. It is used to incentivise lending, borrowing, liquidity provision, and contributions to the DAO.
 
 ## Distribution
 
@@ -19,7 +19,7 @@ The HONEY token had a fair launch on March 31st 2022 with no presale or allocati
 
 22.5% is allocated to Honey Labs.
 
-* **22.5% is allocated to Honey Labs SAS** based on a 2 year vesting schedule, following the same schedule as [Rari Capital](https://medium.com/rari-capital/an-updated-take-on-vesting-8b3aa8c3a902)
+* **22.5% is allocated to Honey Labs inc.** based on a 2 year vesting schedule, following the same schedule as [Rari Capital](https://medium.com/rari-capital/an-updated-take-on-vesting-8b3aa8c3a902)
 
 ## How to obtain HONEY
 
@@ -31,5 +31,5 @@ The remaining half of liquidity mining tokens are used to incentivise (through r
 
 Simply holding HONEY tokens in a wallet comes with high opportunity cost relative to veHONEY rewards. Longer term HONEY holders should vest tokens to veHONEY in order to participate in the DAO. The minimum [vesting period](vehoney.md) is 1 week and the maximum is 4 years.
 
-Short term holders and speculators can provide liquidity to HONEY/USDC on [Aldrin](https://dex.aldrin.com/pools/Hon...4iN\_USDC)
+Short term holders and speculators can provide liquidity to HONEY/USDC on [Aldrin](https://dex.aldrin.com/pools/Hon...4iN\_USDC) or [Orca](https://www.orca.so/liquidity/browse?tokenMint=HonyeYAaTPgKUgQpayL914P6VAqbQZPrbkGMETZvW4iN)
 

@@ -1,5 +1,5 @@
 ---
-description: Peer-To-Contract NFT loans
+description: Peer-To-Pool NFT loans
 ---
 
 # Overview
@@ -8,13 +8,14 @@ Honey Finance hosts plenty of lending pools.
 
 Each collateral (usually an NFT collection) has it's own lending pools.
 
-Lending pools match borrowers and lenders of a same collateral. Lenders supply liquidity (USDC or SOL) to an NFT collection's associated lending pool. Borrowers can borrow this money by depositing their NFTs as collateral.
+Lending pools match borrowers and lenders of a same collateral. Lenders supply liquidity (USDC or SOL,WETH, WMATIC ...) to an NFT collection's associated lending pool. Borrowers can borrow this money by depositing their NFTs as collateral.
 
 There are three main participants in Honey lending pools:
 
 * **Borrowers:**&#x20;
 * **Lenders**
 * **Admins**
+* **Bidders**&#x20;
 
 ## Borrowers
 
@@ -28,7 +29,7 @@ When borrowing, users are allowed to withdraw based on their allowance. The allo
 
 ## Lenders
 
-Supply USDC or SOL to lending pools and receive yield from accrued interest or liquidations.&#x20;
+Supply tokens to lending pools and receive yield from accrued interest or liquidations.&#x20;
 
 {% content-ref url="lending.md" %}
 [lending.md](lending.md)
@@ -40,4 +41,12 @@ Create lending pools on the platform and set an admin fee. Liquidations and inte
 
 {% content-ref url="market-admins/" %}
 [market-admins](market-admins/)
+{% endcontent-ref %}
+
+## Bidders
+
+Bid using the liquidation page to acquire discounted NFTs as they are liquidated.
+
+{% content-ref url="liquidations.md" %}
+[liquidations.md](liquidations.md)
 {% endcontent-ref %}

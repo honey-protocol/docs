@@ -12,9 +12,7 @@ Liquidations serve to pay back the loans from borrowers and repay the lenders. L
 
 Each lending market or pool on Honey lives in isolation. Risk is not carried over from one market to another, and if one suffers a cascade of liquidations, it will not affect the overall protocol.
 
-Thus each lending pool has a different risk profile, interest rate, and collateral type. Supplying liquidity as a lender means choosing which lending pool has the most favorable parameters.L
-
-Supply APRs can be boosted with veHONEY. Delegating veHONEY to a lending pool will allow lenders to boost APRs by as much as 20%. This boost percentage will be increased over time as the protocol develops network effects.
+Thus each lending pool has a different risk profile, interest rate, and collateral type. Supplying liquidity as a lender means choosing which lending pool has the most favorable parameters.
 
 ## Utilisation rate
 

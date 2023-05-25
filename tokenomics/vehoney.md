@@ -35,11 +35,13 @@ Bribes are usually spl tokens distributed to voters of certain proposals. These 
 
 The protocol's tokenomics and changes to its programs / smart contracts must be approved by the community through governance.
 
-## Boosted yields
+## Boosted yields\*
 
 Those who vest HONEY tokens into veHONEY can receive boosted APRs on the liquidity they supply in lending markets.
 
 Vesting HONEY or locking NFTs allows lenders to boost their stable coin yield by 20%.
+
+This is currently being developed.&#x20;
 
 ## Revenue sharing\*
 
@@ -60,6 +62,8 @@ The cost of these additional features goes up linearly every week. When a DAO pu
 
 
 ## pHONEY vesting vs HONEY vesting
+
+_pHONEY is a deprecated asset no longer supported by Honey DAO_
 
 Both tokens can be locked to receive veHONEY.
 

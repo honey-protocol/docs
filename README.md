@@ -47,8 +47,4 @@ Eearn fees by creating your own market on Honey. Allow lenders and borrowers to 
 
 The Honey Finance protocol is decentralised, thus its programs can be accessed by multiple frontends (websites) which allow users to interact with its programs.
 
-| Host            | URL                                                                                                            |
-| --------------- | -------------------------------------------------------------------------------------------------------------- |
-| Honey Labs inc. | [https://beta.honey.finance/](https://beta.honey.finance/)                                                     |
-| Community fork  | [https://honey.community](https://honey.community)                                                             |
-| Local host      | [https://github.com/honey-labs/honey-frontend-redesign](https://github.com/honey-labs/honey-frontend-redesign) |
+<table><thead><tr><th width="196">Host</th><th>URL</th></tr></thead><tbody><tr><td>Honey Labs inc.</td><td></td></tr><tr><td>(Solana)</td><td><a href="https://solana.honey.finance/borrow">https://solana.honey.finance/</a></td></tr><tr><td>(Polygon beta)</td><td><a href="https://polygon.honey.finance/borrow">https://polygon.honey.finance/</a></td></tr><tr><td>(Arbitrum beta)</td><td><a href="https://arbitrum.honey.finance/borrow">https://arbitrum.honey.finance</a>/</td></tr><tr><td>Community fork</td><td><a href="https://honey.community">https://honey.community</a></td></tr><tr><td>Local host</td><td><a href="https://github.com/honey-labs/honey-frontend-redesign">https://github.com/honey-labs/honey-frontend-redesign</a></td></tr></tbody></table>

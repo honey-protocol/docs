@@ -26,7 +26,7 @@ Maximum LTV is determined by pool admins, but users cannot currently select valu
 
 ## Liquidation threshold
 
-A position's liquidation threshold determines the maximum LTV at which collateral can be liquidated. At the moment, liquidation thresholds for NFTs are set at 65% LTV.
+A position's liquidation threshold determines the maximum LTV at which collateral can be liquidated. At the moment, liquidation thresholds for NFTs are set at 65% LTV (check for announcements, check the docs, or ask in the discord for details on specific collections).
 
 Each lending pool has its own liquidation threshold based on the risk of the underlying collateral. Liquidation thresholds are at the discretion of pool admins, who manage lending pools on Honey.
 

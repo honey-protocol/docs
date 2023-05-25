@@ -14,33 +14,20 @@ Tom has worked as a project developer since 2019 on Ethereum and Polygon.
 
 Most of his long form content can be found [here](https://tomjpandolfi.medium.com/) on Medium.
 
-\- [@tompandolfi](http://t.me/tompandolfi) [Twitter](https://twitter.com/tomjpandolfi)
-
-
+* Twitter: [@tompandolfi](http://t.me/tompandolfi)
+* Website: tomjpandolfi.com
 
 ## ⛵️ theSailor - COO
 
-As our COO, Sailor handles of all of the finances and Operations of the Honey DAO. This includes accounting, financial projections, mergers and acquisitions, runway management, and communications.
+As our COO, Sailor handles of all of the finances and Operations of the Honey DAO. This includes partnerships/business development, accounting, financial projections, mergers and acquisitions, runway management, and communications.
 
-He is a very large advocate for financial transparency and is pushing this core value throughout Honey Finance.
+He is an advocate for financial transparency and is pushing this core value throughout Honey Finance.
 
 Feel free to contact him at any time, his DMs are always open:
 
-* E-Mail: thesailor@honeylabs.io
+* E-Mail: perkins@honeylabs.io
 * Twitter: [@theSailor\_\_](https://twitter.com/theSailor\_\_)
 * Medium: [https://medium.com/@theSailor\_\_](https://medium.com/@theSailor\_\_)
-
-
-
-## 👨‍💻 0xPedr0 / Business Development
-
-> 0xpedr0.sol
-
-His role is to create synergies with other DeFi protocols and NFT projects, embedding Honey’s systems across the ecosystem.
-
-0xPedr0 is at the center of Honey’s most important partnerships.
-
-* Twitter: [@0xpedr0](https://twitter.com/0xPedr0)
 
 
 
@@ -58,22 +45,23 @@ He is in charge of crunching numbers, as well as modelling the implementation of
 
 Members of the Honey Development Association, whose mission is to help build the Honey Finance protocol.
 
-* @Heron - Developer Relations
-* @bbroeking - Senior Backend engineer, Solana
-* @arcpinus - Backend engineer, Solana
-* @Yuriagile - Backend engineer, Solana
+* [@m4rio](https://twitter.com/m4rio\_eth) -Backend engineer, Ethereum
+* [@pyro](https://twitter.com/BowtiedPyro) - Front end engineer, Solana
 * @hashdaan - Front end engineer
-* @Firefox - Front end engineer, Ethereum
-* @pyro - Front end engineer, Solana
-* @SolBerenson - Full stack engineer
-* @Gonzalo - Full stack engineer, governance
-* @bowtiedpickle - Backend engineer, Ethereum
-* @m4rio -Backend engineer, Ethereum
+* [@bbroeking](https://twitter.com/bbroeking) - Senior Backend engineer, Solana
+* [@klump](https://twitter.com/klump12\_s) - Support and Backend engineer, Solana
+* [@Heron](https://twitter.com/BowTiedHeron) - Developer Relations
 
 ## 📂 Open-Source Contributors
 
 You can join our list of open-source contributors by following the instructions on our [Github](https://github.com/honey-labs).
 
+* @arcpinus
+* @Yuriagile&#x20;
+* @Firefox
+* @bowtiedpickle
+* @SolBerenson
+* @Gonzalo
 * @azothzephyr
 * @sundeepcharan
 * @swan

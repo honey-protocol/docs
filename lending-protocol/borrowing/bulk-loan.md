@@ -8,7 +8,11 @@ Bulk loan feature is in early testing, if you experience any issues, please let 
 
 Bulk loans allow borrowers to bundle multiple collaterals into a single loan.
 
-* Bulk loans can be backed by up to 11 different collaterals.
+* On Solana:
+  * Users are able to hold one position backed by 11 collaterals
+  * This means one loan is held by the user and this loan holds 11 NFTs as collateral
+* On EVM chains (Polygon, Arbitum, ...)
+  * Users can have unlimited positions, each with an unlimited amount of collaterals
 
 ### **Liquidations**
 

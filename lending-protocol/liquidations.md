@@ -39,16 +39,13 @@ Honey Finance uses a liquidation aggregator to keep markets safe, and better han
 There are currently 3 layers activated in the liquidation program:
 
 * Bids (collection wide)
-* Solvent AMM
+* [NFT AMM's](https://tomjpandolfi.medium.com/understanding-nft-amms-831e90596c56) (Tensor, Elixir, NFTX, ...)
 * OTC
 
-With 6 more layers coming soon:
+With more layers coming soon:
 
-* Hadeswap AMM
-* Tensor AMM
-* Elixir AMM
-* Goatswap AMM
 * Vaults
+* [LIDOVS](http://tomjpandolfi.com/whitepapers/lidov.html)
 * Bids (individual NFTs)
 
 Unlike other NFT lending protocols, Honey does not wait for NFTs to be liquidated before handling liquidations. This would result in the protocol, and ultimately the community, holding on to bad debt which it hopes to sell.

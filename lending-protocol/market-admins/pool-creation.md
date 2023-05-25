@@ -9,8 +9,8 @@ Anybody with a certain amount veHONEY can spin up a lending pool for any given N
 **Requirements for listing:**
 
 * Pool admin must hold at least 50k veHONEY
-* NFT collection must use [metaplex standard](https://docs.metaplex.com/programs/token-metadata/token-standard)
-* Collection must have a Switchboard oracle
+* NFT collection must use [metaplex standard](https://docs.metaplex.com/programs/token-metadata/token-standard) and EIP-721 (+ more standards comming soon)
+* Collection must have a Switchboard or [Hivemind](http://localhost:5000/o/0iIgSZYwSypHqRZjZ9zl/s/VCstantoChab6VNFv1ak/) oracle
 
 Most fields in the lending pool creation are mutable, and be changed at a later date.
 
